@@ -1,0 +1,620 @@
+{
+ "benign_flows": 2953291,
+ "benign_days": 83,
+ "first_day": "2023-03-19 15",
+ "last_day": "2023-12-07 01",
+ "granularities": {
+  "pair+port": {
+   "policy_entries_all_benign": 133,
+   "attacks_all_benign": {
+    "1": {
+     "flows": 111251,
+     "blocked_flows": 21266,
+     "keys": 15899,
+     "blocked_keys": 15871
+    },
+    "2": {
+     "flows": 156614,
+     "blocked_flows": 148858,
+     "keys": 25,
+     "blocked_keys": 2
+    },
+    "3": {
+     "flows": 168,
+     "blocked_flows": 9,
+     "keys": 27,
+     "blocked_keys": 4
+    },
+    "4": {
+     "flows": 163,
+     "blocked_flows": 8,
+     "keys": 24,
+     "blocked_keys": 3
+    },
+    "5": {
+     "flows": 36,
+     "blocked_flows": 10,
+     "keys": 19,
+     "blocked_keys": 5
+    },
+    "6": {
+     "flows": 193,
+     "blocked_flows": 67,
+     "keys": 21,
+     "blocked_keys": 6
+    },
+    "7": {
+     "flows": 131,
+     "blocked_flows": 0,
+     "keys": 22,
+     "blocked_keys": 0
+    },
+    "8": {
+     "flows": 824,
+     "blocked_flows": 0,
+     "keys": 23,
+     "blocked_keys": 0
+    },
+    "9": {
+     "flows": 34,
+     "blocked_flows": 0,
+     "keys": 17,
+     "blocked_keys": 0
+    },
+    "10": {
+     "flows": 48,
+     "blocked_flows": 0,
+     "keys": 19,
+     "blocked_keys": 0
+    },
+    "11": {
+     "flows": 8722,
+     "blocked_flows": 0,
+     "keys": 18,
+     "blocked_keys": 0
+    }
+   },
+   "splits": [
+    {
+     "quantile": 0.1,
+     "cut_day": "2023-09-22 22",
+     "policy_entries": 69,
+     "test_benign_flows": 2654895,
+     "benign_denied_flows": 2239630,
+     "attack_flows_blocked_share": {
+      "4": 0.049079754601226995,
+      "10": 0.0,
+      "6": 0.3471502590673575,
+      "1": 0.19115333794752407,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.2777777777777778,
+      "9": 0.0,
+      "3": 0.05357142857142857,
+      "2": 0.9504769688533592,
+      "11": 0.0
+     }
+    },
+    {
+     "quantile": 0.25,
+     "cut_day": "2023-12-06 16",
+     "policy_entries": 91,
+     "test_benign_flows": 2025972,
+     "benign_denied_flows": 42,
+     "attack_flows_blocked_share": {
+      "4": 0.049079754601226995,
+      "10": 0.0,
+      "6": 0.3471502590673575,
+      "1": 0.19115333794752407,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.2777777777777778,
+      "9": 0.0,
+      "3": 0.05357142857142857,
+      "2": 0.9504769688533592,
+      "11": 0.0
+     }
+    },
+    {
+     "quantile": 0.5,
+     "cut_day": "2023-12-06 19",
+     "policy_entries": 99,
+     "test_benign_flows": 1298528,
+     "benign_denied_flows": 34,
+     "attack_flows_blocked_share": {
+      "4": 0.049079754601226995,
+      "10": 0.0,
+      "6": 0.3471502590673575,
+      "1": 0.19115333794752407,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.2777777777777778,
+      "9": 0.0,
+      "3": 0.05357142857142857,
+      "2": 0.9504769688533592,
+      "11": 0.0
+     }
+    },
+    {
+     "quantile": 0.75,
+     "cut_day": "2023-12-06 22",
+     "policy_entries": 120,
+     "test_benign_flows": 596862,
+     "benign_denied_flows": 13,
+     "attack_flows_blocked_share": {
+      "4": 0.049079754601226995,
+      "10": 0.0,
+      "6": 0.3471502590673575,
+      "1": 0.19115333794752407,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.2777777777777778,
+      "9": 0.0,
+      "3": 0.05357142857142857,
+      "2": 0.9504769688533592,
+      "11": 0.0
+     }
+    }
+   ]
+  },
+  "pair": {
+   "policy_entries_all_benign": 87,
+   "attacks_all_benign": {
+    "1": {
+     "flows": 111251,
+     "blocked_flows": 21238,
+     "keys": 15895,
+     "blocked_keys": 15865
+    },
+    "2": {
+     "flows": 156614,
+     "blocked_flows": 148858,
+     "keys": 21,
+     "blocked_keys": 2
+    },
+    "3": {
+     "flows": 168,
+     "blocked_flows": 5,
+     "keys": 23,
+     "blocked_keys": 3
+    },
+    "4": {
+     "flows": 163,
+     "blocked_flows": 3,
+     "keys": 20,
+     "blocked_keys": 2
+    },
+    "5": {
+     "flows": 36,
+     "blocked_flows": 10,
+     "keys": 15,
+     "blocked_keys": 4
+    },
+    "6": {
+     "flows": 193,
+     "blocked_flows": 67,
+     "keys": 17,
+     "blocked_keys": 5
+    },
+    "7": {
+     "flows": 131,
+     "blocked_flows": 0,
+     "keys": 18,
+     "blocked_keys": 0
+    },
+    "8": {
+     "flows": 824,
+     "blocked_flows": 0,
+     "keys": 19,
+     "blocked_keys": 0
+    },
+    "9": {
+     "flows": 34,
+     "blocked_flows": 0,
+     "keys": 13,
+     "blocked_keys": 0
+    },
+    "10": {
+     "flows": 48,
+     "blocked_flows": 0,
+     "keys": 15,
+     "blocked_keys": 0
+    },
+    "11": {
+     "flows": 8722,
+     "blocked_flows": 0,
+     "keys": 15,
+     "blocked_keys": 0
+    }
+   },
+   "splits": [
+    {
+     "quantile": 0.1,
+     "cut_day": "2023-09-22 22",
+     "policy_entries": 65,
+     "test_benign_flows": 2654895,
+     "benign_denied_flows": 2239630,
+     "attack_flows_blocked_share": {
+      "4": 0.049079754601226995,
+      "10": 0.0,
+      "6": 0.3471502590673575,
+      "1": 0.19113536058102848,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.2777777777777778,
+      "9": 0.0,
+      "3": 0.05357142857142857,
+      "2": 0.9504769688533592,
+      "11": 0.0
+     }
+    },
+    {
+     "quantile": 0.25,
+     "cut_day": "2023-12-06 16",
+     "policy_entries": 86,
+     "test_benign_flows": 2025972,
+     "benign_denied_flows": 42,
+     "attack_flows_blocked_share": {
+      "4": 0.018404907975460124,
+      "10": 0.0,
+      "6": 0.3471502590673575,
+      "1": 0.19090165481658591,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.2777777777777778,
+      "9": 0.0,
+      "3": 0.02976190476190476,
+      "2": 0.9504769688533592,
+      "11": 0.0
+     }
+    },
+    {
+     "quantile": 0.5,
+     "cut_day": "2023-12-06 19",
+     "policy_entries": 87,
+     "test_benign_flows": 1298528,
+     "benign_denied_flows": 0,
+     "attack_flows_blocked_share": {
+      "4": 0.018404907975460124,
+      "10": 0.0,
+      "6": 0.3471502590673575,
+      "1": 0.19090165481658591,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.2777777777777778,
+      "9": 0.0,
+      "3": 0.02976190476190476,
+      "2": 0.9504769688533592,
+      "11": 0.0
+     }
+    },
+    {
+     "quantile": 0.75,
+     "cut_day": "2023-12-06 22",
+     "policy_entries": 87,
+     "test_benign_flows": 596862,
+     "benign_denied_flows": 0,
+     "attack_flows_blocked_share": {
+      "4": 0.018404907975460124,
+      "10": 0.0,
+      "6": 0.3471502590673575,
+      "1": 0.19090165481658591,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.2777777777777778,
+      "9": 0.0,
+      "3": 0.02976190476190476,
+      "2": 0.9504769688533592,
+      "11": 0.0
+     }
+    }
+   ]
+  },
+  "service": {
+   "policy_entries_all_benign": 109,
+   "attacks_all_benign": {
+    "1": {
+     "flows": 111251,
+     "blocked_flows": 4270,
+     "keys": 4250,
+     "blocked_keys": 4229
+    },
+    "2": {
+     "flows": 156614,
+     "blocked_flows": 148858,
+     "keys": 17,
+     "blocked_keys": 2
+    },
+    "3": {
+     "flows": 168,
+     "blocked_flows": 5,
+     "keys": 18,
+     "blocked_keys": 3
+    },
+    "4": {
+     "flows": 163,
+     "blocked_flows": 3,
+     "keys": 15,
+     "blocked_keys": 2
+    },
+    "5": {
+     "flows": 36,
+     "blocked_flows": 1,
+     "keys": 12,
+     "blocked_keys": 1
+    },
+    "6": {
+     "flows": 193,
+     "blocked_flows": 17,
+     "keys": 13,
+     "blocked_keys": 2
+    },
+    "7": {
+     "flows": 131,
+     "blocked_flows": 0,
+     "keys": 14,
+     "blocked_keys": 0
+    },
+    "8": {
+     "flows": 824,
+     "blocked_flows": 0,
+     "keys": 15,
+     "blocked_keys": 0
+    },
+    "9": {
+     "flows": 34,
+     "blocked_flows": 0,
+     "keys": 11,
+     "blocked_keys": 0
+    },
+    "10": {
+     "flows": 48,
+     "blocked_flows": 0,
+     "keys": 12,
+     "blocked_keys": 0
+    },
+    "11": {
+     "flows": 8722,
+     "blocked_flows": 0,
+     "keys": 13,
+     "blocked_keys": 0
+    }
+   },
+   "splits": [
+    {
+     "quantile": 0.1,
+     "cut_day": "2023-09-22 22",
+     "policy_entries": 50,
+     "test_benign_flows": 2654895,
+     "benign_denied_flows": 2239619,
+     "attack_flows_blocked_share": {
+      "4": 0.018404907975460124,
+      "10": 0.0,
+      "6": 0.08808290155440414,
+      "1": 0.038381677468067706,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.027777777777777776,
+      "9": 0.0,
+      "3": 0.02976190476190476,
+      "2": 0.9504769688533592,
+      "11": 0.0
+     }
+    },
+    {
+     "quantile": 0.25,
+     "cut_day": "2023-12-06 16",
+     "policy_entries": 67,
+     "test_benign_flows": 2025972,
+     "benign_denied_flows": 42,
+     "attack_flows_blocked_share": {
+      "4": 0.018404907975460124,
+      "10": 0.0,
+      "6": 0.08808290155440414,
+      "1": 0.038381677468067706,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.027777777777777776,
+      "9": 0.0,
+      "3": 0.02976190476190476,
+      "2": 0.9504769688533592,
+      "11": 0.0
+     }
+    },
+    {
+     "quantile": 0.5,
+     "cut_day": "2023-12-06 19",
+     "policy_entries": 75,
+     "test_benign_flows": 1298528,
+     "benign_denied_flows": 34,
+     "attack_flows_blocked_share": {
+      "4": 0.018404907975460124,
+      "10": 0.0,
+      "6": 0.08808290155440414,
+      "1": 0.038381677468067706,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.027777777777777776,
+      "9": 0.0,
+      "3": 0.02976190476190476,
+      "2": 0.9504769688533592,
+      "11": 0.0
+     }
+    },
+    {
+     "quantile": 0.75,
+     "cut_day": "2023-12-06 22",
+     "policy_entries": 96,
+     "test_benign_flows": 596862,
+     "benign_denied_flows": 13,
+     "attack_flows_blocked_share": {
+      "4": 0.018404907975460124,
+      "10": 0.0,
+      "6": 0.08808290155440414,
+      "1": 0.038381677468067706,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.027777777777777776,
+      "9": 0.0,
+      "3": 0.02976190476190476,
+      "2": 0.9504769688533592,
+      "11": 0.0
+     }
+    }
+   ]
+  },
+  "subnet": {
+   "policy_entries_all_benign": 87,
+   "attacks_all_benign": {
+    "1": {
+     "flows": 111251,
+     "blocked_flows": 0,
+     "keys": 14,
+     "blocked_keys": 0
+    },
+    "2": {
+     "flows": 156614,
+     "blocked_flows": 0,
+     "keys": 12,
+     "blocked_keys": 0
+    },
+    "3": {
+     "flows": 168,
+     "blocked_flows": 5,
+     "keys": 15,
+     "blocked_keys": 3
+    },
+    "4": {
+     "flows": 163,
+     "blocked_flows": 3,
+     "keys": 12,
+     "blocked_keys": 2
+    },
+    "5": {
+     "flows": 36,
+     "blocked_flows": 0,
+     "keys": 9,
+     "blocked_keys": 0
+    },
+    "6": {
+     "flows": 193,
+     "blocked_flows": 17,
+     "keys": 9,
+     "blocked_keys": 1
+    },
+    "7": {
+     "flows": 131,
+     "blocked_flows": 0,
+     "keys": 11,
+     "blocked_keys": 0
+    },
+    "8": {
+     "flows": 824,
+     "blocked_flows": 0,
+     "keys": 12,
+     "blocked_keys": 0
+    },
+    "9": {
+     "flows": 34,
+     "blocked_flows": 0,
+     "keys": 9,
+     "blocked_keys": 0
+    },
+    "10": {
+     "flows": 48,
+     "blocked_flows": 0,
+     "keys": 9,
+     "blocked_keys": 0
+    },
+    "11": {
+     "flows": 8722,
+     "blocked_flows": 0,
+     "keys": 9,
+     "blocked_keys": 0
+    }
+   },
+   "splits": [
+    {
+     "quantile": 0.1,
+     "cut_day": "2023-09-22 22",
+     "policy_entries": 35,
+     "test_benign_flows": 2654895,
+     "benign_denied_flows": 285540,
+     "attack_flows_blocked_share": {
+      "4": 0.018404907975460124,
+      "10": 0.0,
+      "6": 0.08808290155440414,
+      "1": 0.0,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.0,
+      "9": 0.0,
+      "3": 0.02976190476190476,
+      "2": 0.0,
+      "11": 0.0
+     }
+    },
+    {
+     "quantile": 0.25,
+     "cut_day": "2023-12-06 16",
+     "policy_entries": 45,
+     "test_benign_flows": 2025972,
+     "benign_denied_flows": 42,
+     "attack_flows_blocked_share": {
+      "4": 0.018404907975460124,
+      "10": 0.0,
+      "6": 0.08808290155440414,
+      "1": 0.0,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.0,
+      "9": 0.0,
+      "3": 0.02976190476190476,
+      "2": 0.0,
+      "11": 0.0
+     }
+    },
+    {
+     "quantile": 0.5,
+     "cut_day": "2023-12-06 19",
+     "policy_entries": 53,
+     "test_benign_flows": 1298528,
+     "benign_denied_flows": 34,
+     "attack_flows_blocked_share": {
+      "4": 0.018404907975460124,
+      "10": 0.0,
+      "6": 0.08808290155440414,
+      "1": 0.0,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.0,
+      "9": 0.0,
+      "3": 0.02976190476190476,
+      "2": 0.0,
+      "11": 0.0
+     }
+    },
+    {
+     "quantile": 0.75,
+     "cut_day": "2023-12-06 22",
+     "policy_entries": 74,
+     "test_benign_flows": 596862,
+     "benign_denied_flows": 13,
+     "attack_flows_blocked_share": {
+      "4": 0.018404907975460124,
+      "10": 0.0,
+      "6": 0.08808290155440414,
+      "1": 0.0,
+      "8": 0.0,
+      "7": 0.0,
+      "5": 0.0,
+      "9": 0.0,
+      "3": 0.02976190476190476,
+      "2": 0.0,
+      "11": 0.0
+     }
+    }
+   ]
+  }
+ }
+}

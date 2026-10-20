@@ -1,0 +1,720 @@
+{"exp": "compose", "A": false, "B": false, "n": 400, "run": 0, "seconds": 6.999992900004145}
+{"exp": "compose", "A": false, "B": false, "n": 400, "run": 1, "seconds": 7.2383781999960775}
+{"exp": "compose", "A": false, "B": false, "n": 400, "run": 2, "seconds": 7.1526081999909366}
+{"exp": "compose", "A": false, "B": false, "n": 400, "run": 3, "seconds": 7.151197400002275}
+{"exp": "compose", "A": false, "B": false, "n": 400, "run": 4, "seconds": 7.137640700006159}
+{"exp": "compose", "A": false, "B": false, "n": 400, "run": 5, "seconds": 7.159702700009802}
+{"exp": "compose", "A": false, "B": false, "n": 400, "run": 6, "seconds": 7.178039999998873}
+{"exp": "compose", "A": false, "B": false, "n": 400, "run": 7, "seconds": 10.490697099987301}
+{"exp": "compose", "A": false, "B": false, "n": 400, "run": 8, "seconds": 13.193539300002158}
+{"exp": "compose", "A": false, "B": false, "n": 400, "run": 9, "seconds": 9.372336500004167}
+{"exp": "compose", "A": false, "B": false, "n": 800, "run": 0, "seconds": 8.734922500007087}
+{"exp": "compose", "A": false, "B": false, "n": 800, "run": 1, "seconds": 8.53321429999778}
+{"exp": "compose", "A": false, "B": false, "n": 800, "run": 2, "seconds": 8.196559700008947}
+{"exp": "compose", "A": false, "B": false, "n": 800, "run": 3, "seconds": 8.325242200007779}
+{"exp": "compose", "A": false, "B": false, "n": 800, "run": 4, "seconds": 8.446320000002743}
+{"exp": "compose", "A": false, "B": false, "n": 800, "run": 5, "seconds": 8.728519500000402}
+{"exp": "compose", "A": false, "B": false, "n": 800, "run": 6, "seconds": 9.375040600003558}
+{"exp": "compose", "A": false, "B": false, "n": 800, "run": 7, "seconds": 15.874070899997605}
+{"exp": "compose", "A": false, "B": false, "n": 800, "run": 8, "seconds": 11.469509800008382}
+{"exp": "compose", "A": false, "B": false, "n": 800, "run": 9, "seconds": 8.418092399995658}
+{"exp": "compose", "A": false, "B": false, "n": 1200, "run": 0, "seconds": 8.068355200011865}
+{"exp": "compose", "A": false, "B": false, "n": 1200, "run": 1, "seconds": 8.207907400006661}
+{"exp": "compose", "A": false, "B": false, "n": 1200, "run": 2, "seconds": 8.347224900004221}
+{"exp": "compose", "A": false, "B": false, "n": 1200, "run": 3, "seconds": 8.311058800012688}
+{"exp": "compose", "A": false, "B": false, "n": 1200, "run": 4, "seconds": 8.405105600002571}
+{"exp": "compose", "A": false, "B": false, "n": 1200, "run": 5, "seconds": 8.19101039999805}
+{"exp": "compose", "A": false, "B": false, "n": 1200, "run": 6, "seconds": 13.418673399995896}
+{"exp": "compose", "A": false, "B": false, "n": 1200, "run": 7, "seconds": 14.945936700009042}
+{"exp": "compose", "A": false, "B": false, "n": 1200, "run": 8, "seconds": 10.943459300004179}
+{"exp": "compose", "A": false, "B": false, "n": 1200, "run": 9, "seconds": 10.577530399998068}
+{"exp": "compose", "A": false, "B": false, "n": 1600, "run": 0, "seconds": 10.195632899994962}
+{"exp": "compose", "A": false, "B": false, "n": 1600, "run": 1, "seconds": 10.073850400003721}
+{"exp": "compose", "A": false, "B": false, "n": 1600, "run": 2, "seconds": 9.931619299997692}
+{"exp": "compose", "A": false, "B": false, "n": 1600, "run": 3, "seconds": 10.02513930000714}
+{"exp": "compose", "A": false, "B": false, "n": 1600, "run": 4, "seconds": 10.20839739999792}
+{"exp": "compose", "A": false, "B": false, "n": 1600, "run": 5, "seconds": 12.086919299996225}
+{"exp": "compose", "A": false, "B": false, "n": 1600, "run": 6, "seconds": 13.142426500009606}
+{"exp": "compose", "A": false, "B": false, "n": 1600, "run": 7, "seconds": 11.780277300000307}
+{"exp": "compose", "A": false, "B": false, "n": 1600, "run": 8, "seconds": 10.33336319999944}
+{"exp": "compose", "A": false, "B": false, "n": 1600, "run": 9, "seconds": 10.192285899989656}
+{"exp": "compose", "A": false, "B": false, "n": 2000, "run": 0, "seconds": 12.297812099990551}
+{"exp": "compose", "A": false, "B": false, "n": 2000, "run": 1, "seconds": 11.847484600002645}
+{"exp": "compose", "A": false, "B": false, "n": 2000, "run": 2, "seconds": 10.4587271999917}
+{"exp": "compose", "A": false, "B": false, "n": 2000, "run": 3, "seconds": 10.509104199998546}
+{"exp": "compose", "A": false, "B": false, "n": 2000, "run": 4, "seconds": 11.22342490000301}
+{"exp": "compose", "A": false, "B": false, "n": 2000, "run": 5, "seconds": 11.20675980001397}
+{"exp": "compose", "A": false, "B": false, "n": 2000, "run": 6, "seconds": 9.963102299996535}
+{"exp": "compose", "A": false, "B": false, "n": 2000, "run": 7, "seconds": 10.101075200000196}
+{"exp": "compose", "A": false, "B": false, "n": 2000, "run": 8, "seconds": 12.214014500001213}
+{"exp": "compose", "A": false, "B": false, "n": 2000, "run": 9, "seconds": 18.795052699992084}
+{"exp": "compose", "A": false, "B": true, "n": 400, "run": 0, "seconds": 19.112015799997607}
+{"exp": "compose", "A": false, "B": true, "n": 400, "run": 1, "seconds": 20.264783199992962}
+{"exp": "compose", "A": false, "B": true, "n": 400, "run": 2, "seconds": 18.45242159999907}
+{"exp": "compose", "A": false, "B": true, "n": 400, "run": 3, "seconds": 16.975989300000947}
+{"exp": "compose", "A": false, "B": true, "n": 400, "run": 4, "seconds": 16.52913239999907}
+{"exp": "compose", "A": false, "B": true, "n": 400, "run": 5, "seconds": 17.58996240000124}
+{"exp": "compose", "A": false, "B": true, "n": 400, "run": 6, "seconds": 19.381342799999402}
+{"exp": "compose", "A": false, "B": true, "n": 400, "run": 7, "seconds": 16.438245500001358}
+{"exp": "compose", "A": false, "B": true, "n": 400, "run": 8, "seconds": 12.237350600000354}
+{"exp": "compose", "A": false, "B": true, "n": 400, "run": 9, "seconds": 11.379113399991184}
+{"exp": "compose", "A": false, "B": true, "n": 800, "run": 0, "seconds": 11.714400299999397}
+{"exp": "compose", "A": false, "B": true, "n": 800, "run": 1, "seconds": 13.087729999999283}
+{"exp": "compose", "A": false, "B": true, "n": 800, "run": 2, "seconds": 16.44841880000604}
+{"exp": "compose", "A": false, "B": true, "n": 800, "run": 3, "seconds": 16.42372289999912}
+{"exp": "compose", "A": false, "B": true, "n": 800, "run": 4, "seconds": 15.901077699993039}
+{"exp": "compose", "A": false, "B": true, "n": 800, "run": 5, "seconds": 12.841188899998087}
+{"exp": "compose", "A": false, "B": true, "n": 800, "run": 6, "seconds": 9.139428899987251}
+{"exp": "compose", "A": false, "B": true, "n": 800, "run": 7, "seconds": 11.225516499995138}
+{"exp": "compose", "A": false, "B": true, "n": 800, "run": 8, "seconds": 11.345064699999057}
+{"exp": "compose", "A": false, "B": true, "n": 800, "run": 9, "seconds": 9.579034399997909}
+{"exp": "compose", "A": false, "B": true, "n": 1200, "run": 0, "seconds": 8.107763099993463}
+{"exp": "compose", "A": false, "B": true, "n": 1200, "run": 1, "seconds": 10.093621899999562}
+{"exp": "compose", "A": false, "B": true, "n": 1200, "run": 2, "seconds": 8.590906299999915}
+{"exp": "compose", "A": false, "B": true, "n": 1200, "run": 3, "seconds": 7.33201129999361}
+{"exp": "compose", "A": false, "B": true, "n": 1200, "run": 4, "seconds": 7.25640349999594}
+{"exp": "compose", "A": false, "B": true, "n": 1200, "run": 5, "seconds": 8.481297799997265}
+{"exp": "compose", "A": false, "B": true, "n": 1200, "run": 6, "seconds": 8.550899400011986}
+{"exp": "compose", "A": false, "B": true, "n": 1200, "run": 7, "seconds": 7.650314400001662}
+{"exp": "compose", "A": false, "B": true, "n": 1200, "run": 8, "seconds": 6.814384299999801}
+{"exp": "compose", "A": false, "B": true, "n": 1200, "run": 9, "seconds": 8.60524489999807}
+{"exp": "compose", "A": false, "B": true, "n": 1600, "run": 0, "seconds": 8.894020399995497}
+{"exp": "compose", "A": false, "B": true, "n": 1600, "run": 1, "seconds": 7.051800900007947}
+{"exp": "compose", "A": false, "B": true, "n": 1600, "run": 2, "seconds": 6.746342700003879}
+{"exp": "compose", "A": false, "B": true, "n": 1600, "run": 3, "seconds": 7.460488100012299}
+{"exp": "compose", "A": false, "B": true, "n": 1600, "run": 4, "seconds": 8.76765370000794}
+{"exp": "compose", "A": false, "B": true, "n": 1600, "run": 5, "seconds": 9.769721300006495}
+{"exp": "compose", "A": false, "B": true, "n": 1600, "run": 6, "seconds": 7.6696469000016805}
+{"exp": "compose", "A": false, "B": true, "n": 1600, "run": 7, "seconds": 7.57363240000268}
+{"exp": "compose", "A": false, "B": true, "n": 1600, "run": 8, "seconds": 7.638985399986268}
+{"exp": "compose", "A": false, "B": true, "n": 1600, "run": 9, "seconds": 7.606433599998127}
+{"exp": "compose", "A": false, "B": true, "n": 2000, "run": 0, "seconds": 7.59638289999566}
+{"exp": "compose", "A": false, "B": true, "n": 2000, "run": 1, "seconds": 7.311813099993742}
+{"exp": "compose", "A": false, "B": true, "n": 2000, "run": 2, "seconds": 7.803344800006016}
+{"exp": "compose", "A": false, "B": true, "n": 2000, "run": 3, "seconds": 6.613661600000341}
+{"exp": "compose", "A": false, "B": true, "n": 2000, "run": 4, "seconds": 6.996687999999267}
+{"exp": "compose", "A": false, "B": true, "n": 2000, "run": 5, "seconds": 6.313757700001588}
+{"exp": "compose", "A": false, "B": true, "n": 2000, "run": 6, "seconds": 6.512510800006567}
+{"exp": "compose", "A": false, "B": true, "n": 2000, "run": 7, "seconds": 6.3658008000056725}
+{"exp": "compose", "A": false, "B": true, "n": 2000, "run": 8, "seconds": 7.455698700010544}
+{"exp": "compose", "A": false, "B": true, "n": 2000, "run": 9, "seconds": 8.305242100002943}
+{"exp": "compose", "A": true, "B": false, "n": 400, "run": 0, "seconds": 0.1726053000020329}
+{"exp": "compose", "A": true, "B": false, "n": 400, "run": 1, "seconds": 0.16450260000419803}
+{"exp": "compose", "A": true, "B": false, "n": 400, "run": 2, "seconds": 0.15497760000289418}
+{"exp": "compose", "A": true, "B": false, "n": 400, "run": 3, "seconds": 0.15102079999633133}
+{"exp": "compose", "A": true, "B": false, "n": 400, "run": 4, "seconds": 0.15321079999557696}
+{"exp": "compose", "A": true, "B": false, "n": 400, "run": 5, "seconds": 0.15454589998989832}
+{"exp": "compose", "A": true, "B": false, "n": 400, "run": 6, "seconds": 0.14568700001109391}
+{"exp": "compose", "A": true, "B": false, "n": 400, "run": 7, "seconds": 0.16756840000743978}
+{"exp": "compose", "A": true, "B": false, "n": 400, "run": 8, "seconds": 0.16732690000208095}
+{"exp": "compose", "A": true, "B": false, "n": 400, "run": 9, "seconds": 0.16903820000879932}
+{"exp": "compose", "A": true, "B": false, "n": 800, "run": 0, "seconds": 0.2724836999987019}
+{"exp": "compose", "A": true, "B": false, "n": 800, "run": 1, "seconds": 0.26971199999388773}
+{"exp": "compose", "A": true, "B": false, "n": 800, "run": 2, "seconds": 0.2611273000075016}
+{"exp": "compose", "A": true, "B": false, "n": 800, "run": 3, "seconds": 0.297991200000979}
+{"exp": "compose", "A": true, "B": false, "n": 800, "run": 4, "seconds": 0.3478303999872878}
+{"exp": "compose", "A": true, "B": false, "n": 800, "run": 5, "seconds": 0.2856908000103431}
+{"exp": "compose", "A": true, "B": false, "n": 800, "run": 6, "seconds": 0.29707739999867044}
+{"exp": "compose", "A": true, "B": false, "n": 800, "run": 7, "seconds": 0.33382269999128766}
+{"exp": "compose", "A": true, "B": false, "n": 800, "run": 8, "seconds": 0.32235130001208745}
+{"exp": "compose", "A": true, "B": false, "n": 800, "run": 9, "seconds": 0.30134560000442434}
+{"exp": "compose", "A": true, "B": false, "n": 1200, "run": 0, "seconds": 0.39664530000300147}
+{"exp": "compose", "A": true, "B": false, "n": 1200, "run": 1, "seconds": 0.3828419999917969}
+{"exp": "compose", "A": true, "B": false, "n": 1200, "run": 2, "seconds": 0.38371290000213776}
+{"exp": "compose", "A": true, "B": false, "n": 1200, "run": 3, "seconds": 0.36224780000338797}
+{"exp": "compose", "A": true, "B": false, "n": 1200, "run": 4, "seconds": 0.3782684000034351}
+{"exp": "compose", "A": true, "B": false, "n": 1200, "run": 5, "seconds": 0.3430568000039784}
+{"exp": "compose", "A": true, "B": false, "n": 1200, "run": 6, "seconds": 0.3456700999959139}
+{"exp": "compose", "A": true, "B": false, "n": 1200, "run": 7, "seconds": 0.3507530000060797}
+{"exp": "compose", "A": true, "B": false, "n": 1200, "run": 8, "seconds": 0.36775829999533016}
+{"exp": "compose", "A": true, "B": false, "n": 1200, "run": 9, "seconds": 0.3625476000015624}
+{"exp": "compose", "A": true, "B": false, "n": 1600, "run": 0, "seconds": 0.39923549999366514}
+{"exp": "compose", "A": true, "B": false, "n": 1600, "run": 1, "seconds": 0.3823038000118686}
+{"exp": "compose", "A": true, "B": false, "n": 1600, "run": 2, "seconds": 0.39241559999936726}
+{"exp": "compose", "A": true, "B": false, "n": 1600, "run": 3, "seconds": 0.3893312000000151}
+{"exp": "compose", "A": true, "B": false, "n": 1600, "run": 4, "seconds": 0.417455400005565}
+{"exp": "compose", "A": true, "B": false, "n": 1600, "run": 5, "seconds": 0.44354480000038166}
+{"exp": "compose", "A": true, "B": false, "n": 1600, "run": 6, "seconds": 0.4021758000017144}
+{"exp": "compose", "A": true, "B": false, "n": 1600, "run": 7, "seconds": 0.38247969999792986}
+{"exp": "compose", "A": true, "B": false, "n": 1600, "run": 8, "seconds": 0.4134344000049168}
+{"exp": "compose", "A": true, "B": false, "n": 1600, "run": 9, "seconds": 0.4018986000010045}
+{"exp": "compose", "A": true, "B": false, "n": 2000, "run": 0, "seconds": 0.48872760000813287}
+{"exp": "compose", "A": true, "B": false, "n": 2000, "run": 1, "seconds": 0.46589429999585263}
+{"exp": "compose", "A": true, "B": false, "n": 2000, "run": 2, "seconds": 0.49179680000816006}
+{"exp": "compose", "A": true, "B": false, "n": 2000, "run": 3, "seconds": 0.5258931999997003}
+{"exp": "compose", "A": true, "B": false, "n": 2000, "run": 4, "seconds": 0.49393229999986943}
+{"exp": "compose", "A": true, "B": false, "n": 2000, "run": 5, "seconds": 0.5363928999868222}
+{"exp": "compose", "A": true, "B": false, "n": 2000, "run": 6, "seconds": 0.5343786000012187}
+{"exp": "compose", "A": true, "B": false, "n": 2000, "run": 7, "seconds": 0.4767418999981601}
+{"exp": "compose", "A": true, "B": false, "n": 2000, "run": 8, "seconds": 0.49713050000718795}
+{"exp": "compose", "A": true, "B": false, "n": 2000, "run": 9, "seconds": 0.47893919999478385}
+{"exp": "compose", "A": true, "B": true, "n": 400, "run": 0, "seconds": 0.3153873000119347}
+{"exp": "compose", "A": true, "B": true, "n": 400, "run": 1, "seconds": 0.4789736999955494}
+{"exp": "compose", "A": true, "B": true, "n": 400, "run": 2, "seconds": 0.4776983000047039}
+{"exp": "compose", "A": true, "B": true, "n": 400, "run": 3, "seconds": 0.35984069999540225}
+{"exp": "compose", "A": true, "B": true, "n": 400, "run": 4, "seconds": 0.4982531999994535}
+{"exp": "compose", "A": true, "B": true, "n": 400, "run": 5, "seconds": 0.6460322999919299}
+{"exp": "compose", "A": true, "B": true, "n": 400, "run": 6, "seconds": 0.34019529999932274}
+{"exp": "compose", "A": true, "B": true, "n": 400, "run": 7, "seconds": 0.48519400000805035}
+{"exp": "compose", "A": true, "B": true, "n": 400, "run": 8, "seconds": 0.6896796999935759}
+{"exp": "compose", "A": true, "B": true, "n": 400, "run": 9, "seconds": 0.3833695000066655}
+{"exp": "compose", "A": true, "B": true, "n": 800, "run": 0, "seconds": 0.514637499989476}
+{"exp": "compose", "A": true, "B": true, "n": 800, "run": 1, "seconds": 0.5432808000041405}
+{"exp": "compose", "A": true, "B": true, "n": 800, "run": 2, "seconds": 0.37246650000452064}
+{"exp": "compose", "A": true, "B": true, "n": 800, "run": 3, "seconds": 0.5907202000089455}
+{"exp": "compose", "A": true, "B": true, "n": 800, "run": 4, "seconds": 0.37164869999105576}
+{"exp": "compose", "A": true, "B": true, "n": 800, "run": 5, "seconds": 0.5020449000003282}
+{"exp": "compose", "A": true, "B": true, "n": 800, "run": 6, "seconds": 0.5485938000056194}
+{"exp": "compose", "A": true, "B": true, "n": 800, "run": 7, "seconds": 0.3577874999900814}
+{"exp": "compose", "A": true, "B": true, "n": 800, "run": 8, "seconds": 0.6338802999962354}
+{"exp": "compose", "A": true, "B": true, "n": 800, "run": 9, "seconds": 0.6722404000029201}
+{"exp": "compose", "A": true, "B": true, "n": 1200, "run": 0, "seconds": 0.48372720000043046}
+{"exp": "compose", "A": true, "B": true, "n": 1200, "run": 1, "seconds": 0.5077046000078553}
+{"exp": "compose", "A": true, "B": true, "n": 1200, "run": 2, "seconds": 0.5198960999987321}
+{"exp": "compose", "A": true, "B": true, "n": 1200, "run": 3, "seconds": 0.5577293000096688}
+{"exp": "compose", "A": true, "B": true, "n": 1200, "run": 4, "seconds": 0.5105893999862019}
+{"exp": "compose", "A": true, "B": true, "n": 1200, "run": 5, "seconds": 0.4854840000043623}
+{"exp": "compose", "A": true, "B": true, "n": 1200, "run": 6, "seconds": 0.4746257000078913}
+{"exp": "compose", "A": true, "B": true, "n": 1200, "run": 7, "seconds": 0.515923400002066}
+{"exp": "compose", "A": true, "B": true, "n": 1200, "run": 8, "seconds": 0.6425160999933723}
+{"exp": "compose", "A": true, "B": true, "n": 1200, "run": 9, "seconds": 0.4156125000008615}
+{"exp": "compose", "A": true, "B": true, "n": 1600, "run": 0, "seconds": 0.2723361000098521}
+{"exp": "compose", "A": true, "B": true, "n": 1600, "run": 1, "seconds": 0.4168830999988131}
+{"exp": "compose", "A": true, "B": true, "n": 1600, "run": 2, "seconds": 0.4041659000067739}
+{"exp": "compose", "A": true, "B": true, "n": 1600, "run": 3, "seconds": 0.43085180000343826}
+{"exp": "compose", "A": true, "B": true, "n": 1600, "run": 4, "seconds": 0.24032460000307765}
+{"exp": "compose", "A": true, "B": true, "n": 1600, "run": 5, "seconds": 0.3822528000018792}
+{"exp": "compose", "A": true, "B": true, "n": 1600, "run": 6, "seconds": 0.3739766999933636}
+{"exp": "compose", "A": true, "B": true, "n": 1600, "run": 7, "seconds": 0.3553455000073882}
+{"exp": "compose", "A": true, "B": true, "n": 1600, "run": 8, "seconds": 0.19243249999999534}
+{"exp": "compose", "A": true, "B": true, "n": 1600, "run": 9, "seconds": 0.3965561000077287}
+{"exp": "compose", "A": true, "B": true, "n": 2000, "run": 0, "seconds": 0.3974277999950573}
+{"exp": "compose", "A": true, "B": true, "n": 2000, "run": 1, "seconds": 0.22090109999408014}
+{"exp": "compose", "A": true, "B": true, "n": 2000, "run": 2, "seconds": 0.37026789999799803}
+{"exp": "compose", "A": true, "B": true, "n": 2000, "run": 3, "seconds": 0.23480250001011882}
+{"exp": "compose", "A": true, "B": true, "n": 2000, "run": 4, "seconds": 0.3899088999896776}
+{"exp": "compose", "A": true, "B": true, "n": 2000, "run": 5, "seconds": 0.23520200001075864}
+{"exp": "compose", "A": true, "B": true, "n": 2000, "run": 6, "seconds": 0.3998600999912014}
+{"exp": "compose", "A": true, "B": true, "n": 2000, "run": 7, "seconds": 0.2134373000008054}
+{"exp": "compose", "A": true, "B": true, "n": 2000, "run": 8, "seconds": 0.37865230000170413}
+{"exp": "compose", "A": true, "B": true, "n": 2000, "run": 9, "seconds": 0.24648799998976756}
+{"exp": "verify", "A": false, "B": false, "n": 400, "run": 0, "seconds": 19.525716900010593, "violations": 7181782}
+{"exp": "verify", "A": false, "B": false, "n": 400, "run": 1, "seconds": 17.968083900006604, "violations": 7181782}
+{"exp": "verify", "A": false, "B": false, "n": 400, "run": 2, "seconds": 20.10767670000496, "violations": 7181782}
+{"exp": "verify", "A": false, "B": false, "n": 400, "run": 3, "seconds": 16.23617170000216, "violations": 7181782}
+{"exp": "verify", "A": false, "B": false, "n": 400, "run": 4, "seconds": 19.189553699994576, "violations": 7181782}
+{"exp": "verify", "A": false, "B": false, "n": 400, "run": 5, "seconds": 20.029705099994317, "violations": 7181782}
+{"exp": "verify", "A": false, "B": false, "n": 400, "run": 6, "seconds": 22.847757100011222, "violations": 7181782}
+{"exp": "verify", "A": false, "B": false, "n": 400, "run": 7, "seconds": 16.010501299999305, "violations": 7181782}
+{"exp": "verify", "A": false, "B": false, "n": 400, "run": 8, "seconds": 15.459199499993701, "violations": 7181782}
+{"exp": "verify", "A": false, "B": false, "n": 400, "run": 9, "seconds": 17.173059799999464, "violations": 7181782}
+{"exp": "verify", "A": false, "B": false, "n": 800, "run": 0, "seconds": 32.768831199995475, "violations": 13368430}
+{"exp": "verify", "A": false, "B": false, "n": 800, "run": 1, "seconds": 29.821872300002724, "violations": 13368430}
+{"exp": "verify", "A": false, "B": false, "n": 800, "run": 2, "seconds": 27.473441300011473, "violations": 13368430}
+{"exp": "verify", "A": false, "B": false, "n": 800, "run": 3, "seconds": 26.580718900004285, "violations": 13368430}
+{"exp": "verify", "A": false, "B": false, "n": 800, "run": 4, "seconds": 23.540488899991033, "violations": 13368430}
+{"exp": "verify", "A": false, "B": false, "n": 1200, "run": 0, "seconds": 27.588921999995364, "violations": 16986355}
+{"exp": "verify", "A": false, "B": false, "n": 1200, "run": 1, "seconds": 34.516656499996316, "violations": 16986355}
+{"exp": "verify", "A": false, "B": false, "n": 1200, "run": 2, "seconds": 32.84918829999515, "violations": 16986355}
+{"exp": "verify", "A": false, "B": false, "n": 1600, "run": 0, "seconds": 39.69872359999863, "violations": 18981386}
+{"exp": "verify", "A": false, "B": false, "n": 1600, "run": 1, "seconds": 38.12234950000129, "violations": 18981386}
+{"exp": "verify", "A": false, "B": false, "n": 1600, "run": 2, "seconds": 32.72775979999278, "violations": 18981386}
+{"exp": "verify", "A": false, "B": false, "n": 2000, "run": 0, "seconds": 34.96593869999924, "violations": 20434769}
+{"exp": "verify", "A": false, "B": false, "n": 2000, "run": 1, "seconds": 36.070742800002336, "violations": 20434769}
+{"exp": "verify", "A": false, "B": false, "n": 2000, "run": 2, "seconds": 34.872839000003296, "violations": 20434769}
+{"exp": "verify", "A": false, "B": true, "n": 400, "run": 0, "seconds": 12.328505700003006, "violations": 7181782}
+{"exp": "verify", "A": false, "B": true, "n": 400, "run": 1, "seconds": 11.35881170000357, "violations": 7181782}
+{"exp": "verify", "A": false, "B": true, "n": 400, "run": 2, "seconds": 11.515925800005789, "violations": 7181782}
+{"exp": "verify", "A": false, "B": true, "n": 800, "run": 0, "seconds": 14.736562899997807, "violations": 13368430}
+{"exp": "verify", "A": false, "B": true, "n": 800, "run": 1, "seconds": 15.12190689999261, "violations": 13368430}
+{"exp": "verify", "A": false, "B": true, "n": 800, "run": 2, "seconds": 15.632129999998142, "violations": 13368430}
+{"exp": "verify", "A": false, "B": true, "n": 1200, "run": 0, "seconds": 20.714686299994355, "violations": 16986355}
+{"exp": "verify", "A": false, "B": true, "n": 1200, "run": 1, "seconds": 21.008194800000638, "violations": 16986355}
+{"exp": "verify", "A": false, "B": true, "n": 1200, "run": 2, "seconds": 20.73662159999367, "violations": 16986355}
+{"exp": "verify", "A": false, "B": true, "n": 1600, "run": 0, "seconds": 22.331306100008078, "violations": 18981386}
+{"exp": "verify", "A": false, "B": true, "n": 1600, "run": 1, "seconds": 20.93021900000167, "violations": 18981386}
+{"exp": "verify", "A": false, "B": true, "n": 1600, "run": 2, "seconds": 18.289471199997934, "violations": 18981386}
+{"exp": "verify", "A": false, "B": true, "n": 2000, "run": 0, "seconds": 17.889878300004057, "violations": 20434769}
+{"exp": "verify", "A": false, "B": true, "n": 2000, "run": 1, "seconds": 18.67882859999372, "violations": 20434769}
+{"exp": "verify", "A": false, "B": true, "n": 2000, "run": 2, "seconds": 20.9723093000066, "violations": 20434769}
+{"exp": "verify", "A": true, "B": false, "n": 400, "run": 0, "seconds": 0.2305286999908276, "violations": 293852}
+{"exp": "verify", "A": true, "B": false, "n": 400, "run": 1, "seconds": 0.18821910000406206, "violations": 293852}
+{"exp": "verify", "A": true, "B": false, "n": 400, "run": 2, "seconds": 0.2009050000051502, "violations": 293852}
+{"exp": "verify", "A": true, "B": false, "n": 400, "run": 3, "seconds": 0.18544449999171775, "violations": 293852}
+{"exp": "verify", "A": true, "B": false, "n": 400, "run": 4, "seconds": 0.1877167000056943, "violations": 293852}
+{"exp": "verify", "A": true, "B": false, "n": 400, "run": 5, "seconds": 0.19209939999564085, "violations": 293852}
+{"exp": "verify", "A": true, "B": false, "n": 400, "run": 6, "seconds": 0.2846780999971088, "violations": 293852}
+{"exp": "verify", "A": true, "B": false, "n": 400, "run": 7, "seconds": 0.18107530000270344, "violations": 293852}
+{"exp": "verify", "A": true, "B": false, "n": 400, "run": 8, "seconds": 0.19445369999448303, "violations": 293852}
+{"exp": "verify", "A": true, "B": false, "n": 400, "run": 9, "seconds": 0.18036929999652784, "violations": 293852}
+{"exp": "verify", "A": true, "B": false, "n": 800, "run": 0, "seconds": 0.33647670000209473, "violations": 537903}
+{"exp": "verify", "A": true, "B": false, "n": 800, "run": 1, "seconds": 0.3712095000082627, "violations": 537903}
+{"exp": "verify", "A": true, "B": false, "n": 800, "run": 2, "seconds": 0.37943770000129007, "violations": 537903}
+{"exp": "verify", "A": true, "B": false, "n": 800, "run": 3, "seconds": 0.3572120000026189, "violations": 537903}
+{"exp": "verify", "A": true, "B": false, "n": 800, "run": 4, "seconds": 0.37354110000887886, "violations": 537903}
+{"exp": "verify", "A": true, "B": false, "n": 800, "run": 5, "seconds": 0.3584087999915937, "violations": 537903}
+{"exp": "verify", "A": true, "B": false, "n": 800, "run": 6, "seconds": 0.4285783000086667, "violations": 537903}
+{"exp": "verify", "A": true, "B": false, "n": 800, "run": 7, "seconds": 0.3586395000020275, "violations": 537903}
+{"exp": "verify", "A": true, "B": false, "n": 800, "run": 8, "seconds": 0.3466753999964567, "violations": 537903}
+{"exp": "verify", "A": true, "B": false, "n": 800, "run": 9, "seconds": 0.34979290000046603, "violations": 537903}
+{"exp": "verify", "A": true, "B": false, "n": 1200, "run": 0, "seconds": 0.5363145000010263, "violations": 705218}
+{"exp": "verify", "A": true, "B": false, "n": 1200, "run": 1, "seconds": 0.5034867999929702, "violations": 705218}
+{"exp": "verify", "A": true, "B": false, "n": 1200, "run": 2, "seconds": 0.46805379999568686, "violations": 705218}
+{"exp": "verify", "A": true, "B": false, "n": 1200, "run": 3, "seconds": 0.5293436999927508, "violations": 705218}
+{"exp": "verify", "A": true, "B": false, "n": 1200, "run": 4, "seconds": 0.5725496000086423, "violations": 705218}
+{"exp": "verify", "A": true, "B": false, "n": 1200, "run": 5, "seconds": 0.4897632999927737, "violations": 705218}
+{"exp": "verify", "A": true, "B": false, "n": 1200, "run": 6, "seconds": 0.46132799999031704, "violations": 705218}
+{"exp": "verify", "A": true, "B": false, "n": 1200, "run": 7, "seconds": 0.47540029999800026, "violations": 705218}
+{"exp": "verify", "A": true, "B": false, "n": 1200, "run": 8, "seconds": 0.5240963000105694, "violations": 705218}
+{"exp": "verify", "A": true, "B": false, "n": 1200, "run": 9, "seconds": 0.4901893000060227, "violations": 705218}
+{"exp": "verify", "A": true, "B": false, "n": 1600, "run": 0, "seconds": 0.5137934000085806, "violations": 780278}
+{"exp": "verify", "A": true, "B": false, "n": 1600, "run": 1, "seconds": 0.5067158000019845, "violations": 780278}
+{"exp": "verify", "A": true, "B": false, "n": 1600, "run": 2, "seconds": 0.5600319999939529, "violations": 780278}
+{"exp": "verify", "A": true, "B": false, "n": 1600, "run": 3, "seconds": 0.514877699999488, "violations": 780278}
+{"exp": "verify", "A": true, "B": false, "n": 1600, "run": 4, "seconds": 0.5226808000006713, "violations": 780278}
+{"exp": "verify", "A": true, "B": false, "n": 1600, "run": 5, "seconds": 0.5642774999869289, "violations": 780278}
+{"exp": "verify", "A": true, "B": false, "n": 1600, "run": 6, "seconds": 0.5104461999872001, "violations": 780278}
+{"exp": "verify", "A": true, "B": false, "n": 1600, "run": 7, "seconds": 0.49353330000303686, "violations": 780278}
+{"exp": "verify", "A": true, "B": false, "n": 1600, "run": 8, "seconds": 0.5076281999936327, "violations": 780278}
+{"exp": "verify", "A": true, "B": false, "n": 1600, "run": 9, "seconds": 0.5405315000098199, "violations": 780278}
+{"exp": "verify", "A": true, "B": false, "n": 2000, "run": 0, "seconds": 0.5705186999985017, "violations": 832484}
+{"exp": "verify", "A": true, "B": false, "n": 2000, "run": 1, "seconds": 0.5695560999884037, "violations": 832484}
+{"exp": "verify", "A": true, "B": false, "n": 2000, "run": 2, "seconds": 0.6168407999939518, "violations": 832484}
+{"exp": "verify", "A": true, "B": false, "n": 2000, "run": 3, "seconds": 0.5784143000055337, "violations": 832484}
+{"exp": "verify", "A": true, "B": false, "n": 2000, "run": 4, "seconds": 0.561461799996323, "violations": 832484}
+{"exp": "verify", "A": true, "B": false, "n": 2000, "run": 5, "seconds": 0.6438848999969196, "violations": 832484}
+{"exp": "verify", "A": true, "B": false, "n": 2000, "run": 6, "seconds": 0.578863899994758, "violations": 832484}
+{"exp": "verify", "A": true, "B": false, "n": 2000, "run": 7, "seconds": 0.55894139999873, "violations": 832484}
+{"exp": "verify", "A": true, "B": false, "n": 2000, "run": 8, "seconds": 0.5876827000029152, "violations": 832484}
+{"exp": "verify", "A": true, "B": false, "n": 2000, "run": 9, "seconds": 0.5637384000001475, "violations": 832484}
+{"exp": "verify", "A": true, "B": true, "n": 400, "run": 0, "seconds": 0.3656011999992188, "violations": 293852}
+{"exp": "verify", "A": true, "B": true, "n": 400, "run": 1, "seconds": 0.3107975000020815, "violations": 293852}
+{"exp": "verify", "A": true, "B": true, "n": 400, "run": 2, "seconds": 0.3864861000038218, "violations": 293852}
+{"exp": "verify", "A": true, "B": true, "n": 400, "run": 3, "seconds": 0.3970333000033861, "violations": 293852}
+{"exp": "verify", "A": true, "B": true, "n": 400, "run": 4, "seconds": 0.32861029999912716, "violations": 293852}
+{"exp": "verify", "A": true, "B": true, "n": 400, "run": 5, "seconds": 0.38677779999852646, "violations": 293852}
+{"exp": "verify", "A": true, "B": true, "n": 400, "run": 6, "seconds": 0.414963599992916, "violations": 293852}
+{"exp": "verify", "A": true, "B": true, "n": 400, "run": 7, "seconds": 0.3253391000034753, "violations": 293852}
+{"exp": "verify", "A": true, "B": true, "n": 400, "run": 8, "seconds": 0.41526840000005905, "violations": 293852}
+{"exp": "verify", "A": true, "B": true, "n": 400, "run": 9, "seconds": 0.4463127000053646, "violations": 293852}
+{"exp": "verify", "A": true, "B": true, "n": 800, "run": 0, "seconds": 0.4971547999884933, "violations": 537903}
+{"exp": "verify", "A": true, "B": true, "n": 800, "run": 1, "seconds": 0.445407699997304, "violations": 537903}
+{"exp": "verify", "A": true, "B": true, "n": 800, "run": 2, "seconds": 0.5469316999951843, "violations": 537903}
+{"exp": "verify", "A": true, "B": true, "n": 800, "run": 3, "seconds": 0.495118500009994, "violations": 537903}
+{"exp": "verify", "A": true, "B": true, "n": 800, "run": 4, "seconds": 0.5036740000068676, "violations": 537903}
+{"exp": "verify", "A": true, "B": true, "n": 800, "run": 5, "seconds": 0.503917599999113, "violations": 537903}
+{"exp": "verify", "A": true, "B": true, "n": 800, "run": 6, "seconds": 0.5078087999863783, "violations": 537903}
+{"exp": "verify", "A": true, "B": true, "n": 800, "run": 7, "seconds": 0.4910310999985086, "violations": 537903}
+{"exp": "verify", "A": true, "B": true, "n": 800, "run": 8, "seconds": 0.4915863000060199, "violations": 537903}
+{"exp": "verify", "A": true, "B": true, "n": 800, "run": 9, "seconds": 0.4893192000017734, "violations": 537903}
+{"exp": "verify", "A": true, "B": true, "n": 1200, "run": 0, "seconds": 0.6459968999988632, "violations": 705218}
+{"exp": "verify", "A": true, "B": true, "n": 1200, "run": 1, "seconds": 0.5776575999916531, "violations": 705218}
+{"exp": "verify", "A": true, "B": true, "n": 1200, "run": 2, "seconds": 0.5734766999958083, "violations": 705218}
+{"exp": "verify", "A": true, "B": true, "n": 1200, "run": 3, "seconds": 0.587814200000139, "violations": 705218}
+{"exp": "verify", "A": true, "B": true, "n": 1200, "run": 4, "seconds": 0.6215444999979809, "violations": 705218}
+{"exp": "verify", "A": true, "B": true, "n": 1200, "run": 5, "seconds": 0.5955069000046933, "violations": 705218}
+{"exp": "verify", "A": true, "B": true, "n": 1200, "run": 6, "seconds": 0.5908637999964412, "violations": 705218}
+{"exp": "verify", "A": true, "B": true, "n": 1200, "run": 7, "seconds": 0.5742082999931881, "violations": 705218}
+{"exp": "verify", "A": true, "B": true, "n": 1200, "run": 8, "seconds": 0.5435655000037514, "violations": 705218}
+{"exp": "verify", "A": true, "B": true, "n": 1200, "run": 9, "seconds": 0.5450526000058744, "violations": 705218}
+{"exp": "verify", "A": true, "B": true, "n": 1600, "run": 0, "seconds": 0.5685716000007233, "violations": 780278}
+{"exp": "verify", "A": true, "B": true, "n": 1600, "run": 1, "seconds": 0.5580825000070035, "violations": 780278}
+{"exp": "verify", "A": true, "B": true, "n": 1600, "run": 2, "seconds": 0.65318350000598, "violations": 780278}
+{"exp": "verify", "A": true, "B": true, "n": 1600, "run": 3, "seconds": 0.57857719999447, "violations": 780278}
+{"exp": "verify", "A": true, "B": true, "n": 1600, "run": 4, "seconds": 0.5628033999964828, "violations": 780278}
+{"exp": "verify", "A": true, "B": true, "n": 1600, "run": 5, "seconds": 0.6576968999870587, "violations": 780278}
+{"exp": "verify", "A": true, "B": true, "n": 1600, "run": 6, "seconds": 0.6425466000073357, "violations": 780278}
+{"exp": "verify", "A": true, "B": true, "n": 1600, "run": 7, "seconds": 0.6260370999953011, "violations": 780278}
+{"exp": "verify", "A": true, "B": true, "n": 1600, "run": 8, "seconds": 0.618505999998888, "violations": 780278}
+{"exp": "verify", "A": true, "B": true, "n": 1600, "run": 9, "seconds": 0.6338419999956386, "violations": 780278}
+{"exp": "verify", "A": true, "B": true, "n": 2000, "run": 0, "seconds": 0.6632468000025256, "violations": 832484}
+{"exp": "verify", "A": true, "B": true, "n": 2000, "run": 1, "seconds": 0.5927669999946374, "violations": 832484}
+{"exp": "verify", "A": true, "B": true, "n": 2000, "run": 2, "seconds": 0.6935976000095252, "violations": 832484}
+{"exp": "verify", "A": true, "B": true, "n": 2000, "run": 3, "seconds": 0.6179382000118494, "violations": 832484}
+{"exp": "verify", "A": true, "B": true, "n": 2000, "run": 4, "seconds": 0.6416959000052884, "violations": 832484}
+{"exp": "verify", "A": true, "B": true, "n": 2000, "run": 5, "seconds": 0.6304379999928642, "violations": 832484}
+{"exp": "verify", "A": true, "B": true, "n": 2000, "run": 6, "seconds": 0.6456929999985732, "violations": 832484}
+{"exp": "verify", "A": true, "B": true, "n": 2000, "run": 7, "seconds": 0.6085391999949934, "violations": 832484}
+{"exp": "verify", "A": true, "B": true, "n": 2000, "run": 8, "seconds": 0.6056797999917762, "violations": 832484}
+{"exp": "verify", "A": true, "B": true, "n": 2000, "run": 9, "seconds": 0.6872148999973433, "violations": 832484}
+{"exp": "delete", "A": true, "B": false, "n": 200, "run": 0, "seconds": 0.06467479999992065}
+{"exp": "delete", "A": true, "B": false, "n": 200, "run": 1, "seconds": 0.050724900007480755}
+{"exp": "delete", "A": true, "B": false, "n": 200, "run": 2, "seconds": 0.053585100002237596}
+{"exp": "delete", "A": true, "B": false, "n": 200, "run": 3, "seconds": 0.059602599998470396}
+{"exp": "delete", "A": true, "B": false, "n": 200, "run": 4, "seconds": 0.04978459999256302}
+{"exp": "delete", "A": true, "B": false, "n": 200, "run": 5, "seconds": 0.05377119999320712}
+{"exp": "delete", "A": true, "B": false, "n": 200, "run": 6, "seconds": 0.05942230000800919}
+{"exp": "delete", "A": true, "B": false, "n": 200, "run": 7, "seconds": 0.04990439998800866}
+{"exp": "delete", "A": true, "B": false, "n": 200, "run": 8, "seconds": 0.048870499987970106}
+{"exp": "delete", "A": true, "B": false, "n": 200, "run": 9, "seconds": 0.05205690000730101}
+{"exp": "delete", "A": true, "B": false, "n": 400, "run": 0, "seconds": 0.08344690001104027}
+{"exp": "delete", "A": true, "B": false, "n": 400, "run": 1, "seconds": 0.07942320000438485}
+{"exp": "delete", "A": true, "B": false, "n": 400, "run": 2, "seconds": 0.1832107999944128}
+{"exp": "delete", "A": true, "B": false, "n": 400, "run": 3, "seconds": 0.09960139999748208}
+{"exp": "delete", "A": true, "B": false, "n": 400, "run": 4, "seconds": 0.11713140000938438}
+{"exp": "delete", "A": true, "B": false, "n": 400, "run": 5, "seconds": 0.12113220000173897}
+{"exp": "delete", "A": true, "B": false, "n": 400, "run": 6, "seconds": 0.17619030000059865}
+{"exp": "delete", "A": true, "B": false, "n": 400, "run": 7, "seconds": 0.09535139999934472}
+{"exp": "delete", "A": true, "B": false, "n": 400, "run": 8, "seconds": 0.09842999999818858}
+{"exp": "delete", "A": true, "B": false, "n": 400, "run": 9, "seconds": 0.09050049999495968}
+{"exp": "delete", "A": true, "B": false, "n": 600, "run": 0, "seconds": 0.19518300000345334}
+{"exp": "delete", "A": true, "B": false, "n": 600, "run": 1, "seconds": 0.11396709999826271}
+{"exp": "delete", "A": true, "B": false, "n": 600, "run": 2, "seconds": 0.1188492000073893}
+{"exp": "delete", "A": true, "B": false, "n": 600, "run": 3, "seconds": 0.11688380000123288}
+{"exp": "delete", "A": true, "B": false, "n": 600, "run": 4, "seconds": 0.11088520000339486}
+{"exp": "delete", "A": true, "B": false, "n": 600, "run": 5, "seconds": 0.11853849999897648}
+{"exp": "delete", "A": true, "B": false, "n": 600, "run": 6, "seconds": 0.11868020000110846}
+{"exp": "delete", "A": true, "B": false, "n": 600, "run": 7, "seconds": 0.10938069999974687}
+{"exp": "delete", "A": true, "B": false, "n": 600, "run": 8, "seconds": 0.11350279999896884}
+{"exp": "delete", "A": true, "B": false, "n": 600, "run": 9, "seconds": 0.10434249999525491}
+{"exp": "delete", "A": true, "B": false, "n": 800, "run": 0, "seconds": 0.1487416000018129}
+{"exp": "delete", "A": true, "B": false, "n": 800, "run": 1, "seconds": 0.14225570000417065}
+{"exp": "delete", "A": true, "B": false, "n": 800, "run": 2, "seconds": 0.1402922999986913}
+{"exp": "delete", "A": true, "B": false, "n": 800, "run": 3, "seconds": 0.14666440000291914}
+{"exp": "delete", "A": true, "B": false, "n": 800, "run": 4, "seconds": 0.14239449999877252}
+{"exp": "delete", "A": true, "B": false, "n": 800, "run": 5, "seconds": 0.14207709999755025}
+{"exp": "delete", "A": true, "B": false, "n": 800, "run": 6, "seconds": 0.1350659000017913}
+{"exp": "delete", "A": true, "B": false, "n": 800, "run": 7, "seconds": 0.1462595000048168}
+{"exp": "delete", "A": true, "B": false, "n": 800, "run": 8, "seconds": 0.14482329999736976}
+{"exp": "delete", "A": true, "B": false, "n": 800, "run": 9, "seconds": 0.14520379999885336}
+{"exp": "delete", "A": true, "B": false, "n": 1000, "run": 0, "seconds": 0.18070640000223648}
+{"exp": "delete", "A": true, "B": false, "n": 1000, "run": 1, "seconds": 0.16986439999891445}
+{"exp": "delete", "A": true, "B": false, "n": 1000, "run": 2, "seconds": 0.18723440000030678}
+{"exp": "delete", "A": true, "B": false, "n": 1000, "run": 3, "seconds": 0.1715015000081621}
+{"exp": "delete", "A": true, "B": false, "n": 1000, "run": 4, "seconds": 0.16712299999198876}
+{"exp": "delete", "A": true, "B": false, "n": 1000, "run": 5, "seconds": 0.175248500003363}
+{"exp": "delete", "A": true, "B": false, "n": 1000, "run": 6, "seconds": 0.2284019999933662}
+{"exp": "delete", "A": true, "B": false, "n": 1000, "run": 7, "seconds": 0.17369979999784846}
+{"exp": "delete", "A": true, "B": false, "n": 1000, "run": 8, "seconds": 0.17861010000342503}
+{"exp": "delete", "A": true, "B": false, "n": 1000, "run": 9, "seconds": 0.16648020000138786}
+{"exp": "delete", "A": true, "B": true, "n": 200, "run": 0, "seconds": 0.0316160999936983}
+{"exp": "delete", "A": true, "B": true, "n": 200, "run": 1, "seconds": 0.03172189999895636}
+{"exp": "delete", "A": true, "B": true, "n": 200, "run": 2, "seconds": 0.036637099998188205}
+{"exp": "delete", "A": true, "B": true, "n": 200, "run": 3, "seconds": 0.02468439999211114}
+{"exp": "delete", "A": true, "B": true, "n": 200, "run": 4, "seconds": 0.03311509999912232}
+{"exp": "delete", "A": true, "B": true, "n": 200, "run": 5, "seconds": 0.03697610000381246}
+{"exp": "delete", "A": true, "B": true, "n": 200, "run": 6, "seconds": 0.025100999991991557}
+{"exp": "delete", "A": true, "B": true, "n": 200, "run": 7, "seconds": 0.026295799994841218}
+{"exp": "delete", "A": true, "B": true, "n": 200, "run": 8, "seconds": 0.037548899999819696}
+{"exp": "delete", "A": true, "B": true, "n": 200, "run": 9, "seconds": 0.02404259999457281}
+{"exp": "delete", "A": true, "B": true, "n": 400, "run": 0, "seconds": 0.03909920000296552}
+{"exp": "delete", "A": true, "B": true, "n": 400, "run": 1, "seconds": 0.0496592999988934}
+{"exp": "delete", "A": true, "B": true, "n": 400, "run": 2, "seconds": 0.0416343999968376}
+{"exp": "delete", "A": true, "B": true, "n": 400, "run": 3, "seconds": 0.038676399999530986}
+{"exp": "delete", "A": true, "B": true, "n": 400, "run": 4, "seconds": 0.1274695000029169}
+{"exp": "delete", "A": true, "B": true, "n": 400, "run": 5, "seconds": 0.05563610000535846}
+{"exp": "delete", "A": true, "B": true, "n": 400, "run": 6, "seconds": 0.039590500004123896}
+{"exp": "delete", "A": true, "B": true, "n": 400, "run": 7, "seconds": 0.04900679999263957}
+{"exp": "delete", "A": true, "B": true, "n": 400, "run": 8, "seconds": 0.04058610000356566}
+{"exp": "delete", "A": true, "B": true, "n": 400, "run": 9, "seconds": 0.04503350000595674}
+{"exp": "delete", "A": true, "B": true, "n": 600, "run": 0, "seconds": 0.06276179999986198}
+{"exp": "delete", "A": true, "B": true, "n": 600, "run": 1, "seconds": 0.05719320000207517}
+{"exp": "delete", "A": true, "B": true, "n": 600, "run": 2, "seconds": 0.05038169999897946}
+{"exp": "delete", "A": true, "B": true, "n": 600, "run": 3, "seconds": 0.060164299997268245}
+{"exp": "delete", "A": true, "B": true, "n": 600, "run": 4, "seconds": 0.05784809999749996}
+{"exp": "delete", "A": true, "B": true, "n": 600, "run": 5, "seconds": 0.051354800001718104}
+{"exp": "delete", "A": true, "B": true, "n": 600, "run": 6, "seconds": 0.06183000000601169}
+{"exp": "delete", "A": true, "B": true, "n": 600, "run": 7, "seconds": 0.05720840000140015}
+{"exp": "delete", "A": true, "B": true, "n": 600, "run": 8, "seconds": 0.05544969999755267}
+{"exp": "delete", "A": true, "B": true, "n": 600, "run": 9, "seconds": 0.060033100002328865}
+{"exp": "delete", "A": true, "B": true, "n": 800, "run": 0, "seconds": 0.07032169999729376}
+{"exp": "delete", "A": true, "B": true, "n": 800, "run": 1, "seconds": 0.06693099999392871}
+{"exp": "delete", "A": true, "B": true, "n": 800, "run": 2, "seconds": 0.07535199999983888}
+{"exp": "delete", "A": true, "B": true, "n": 800, "run": 3, "seconds": 0.07683540000289213}
+{"exp": "delete", "A": true, "B": true, "n": 800, "run": 4, "seconds": 0.06308429999626242}
+{"exp": "delete", "A": true, "B": true, "n": 800, "run": 5, "seconds": 0.08300109999254346}
+{"exp": "delete", "A": true, "B": true, "n": 800, "run": 6, "seconds": 0.0867419999995036}
+{"exp": "delete", "A": true, "B": true, "n": 800, "run": 7, "seconds": 0.08143079999717884}
+{"exp": "delete", "A": true, "B": true, "n": 800, "run": 8, "seconds": 0.07698769999842625}
+{"exp": "delete", "A": true, "B": true, "n": 800, "run": 9, "seconds": 0.13036190001002979}
+{"exp": "delete", "A": true, "B": true, "n": 1000, "run": 0, "seconds": 0.07763840000552591}
+{"exp": "delete", "A": true, "B": true, "n": 1000, "run": 1, "seconds": 0.08625690000189934}
+{"exp": "delete", "A": true, "B": true, "n": 1000, "run": 2, "seconds": 0.08583409999846481}
+{"exp": "delete", "A": true, "B": true, "n": 1000, "run": 3, "seconds": 0.07629820000147447}
+{"exp": "delete", "A": true, "B": true, "n": 1000, "run": 4, "seconds": 0.08790630000294186}
+{"exp": "delete", "A": true, "B": true, "n": 1000, "run": 5, "seconds": 0.08738780001294799}
+{"exp": "delete", "A": true, "B": true, "n": 1000, "run": 6, "seconds": 0.07437919999938458}
+{"exp": "delete", "A": true, "B": true, "n": 1000, "run": 7, "seconds": 0.1488930000050459}
+{"exp": "delete", "A": true, "B": true, "n": 1000, "run": 8, "seconds": 0.08391790000314359}
+{"exp": "delete", "A": true, "B": true, "n": 1000, "run": 9, "seconds": 0.07785590000275988}
+{"exp": "add", "A": true, "B": false, "n": 200, "run": 0, "seconds": 0.08244870000635274}
+{"exp": "add", "A": true, "B": false, "n": 200, "run": 1, "seconds": 0.0951173000066774}
+{"exp": "add", "A": true, "B": false, "n": 200, "run": 2, "seconds": 0.08651780000946019}
+{"exp": "add", "A": true, "B": false, "n": 200, "run": 3, "seconds": 0.08255240001017228}
+{"exp": "add", "A": true, "B": false, "n": 200, "run": 4, "seconds": 0.14718179999908898}
+{"exp": "add", "A": true, "B": false, "n": 200, "run": 5, "seconds": 0.08287050000217278}
+{"exp": "add", "A": true, "B": false, "n": 200, "run": 6, "seconds": 0.0816519999934826}
+{"exp": "add", "A": true, "B": false, "n": 200, "run": 7, "seconds": 0.1502360000013141}
+{"exp": "add", "A": true, "B": false, "n": 200, "run": 8, "seconds": 0.08887540000432637}
+{"exp": "add", "A": true, "B": false, "n": 200, "run": 9, "seconds": 0.07934389999718405}
+{"exp": "add", "A": true, "B": false, "n": 400, "run": 0, "seconds": 0.1312891999987187}
+{"exp": "add", "A": true, "B": false, "n": 400, "run": 1, "seconds": 0.13335439999355003}
+{"exp": "add", "A": true, "B": false, "n": 400, "run": 2, "seconds": 0.125613299998804}
+{"exp": "add", "A": true, "B": false, "n": 400, "run": 3, "seconds": 0.1238662999967346}
+{"exp": "add", "A": true, "B": false, "n": 400, "run": 4, "seconds": 0.13048380000691395}
+{"exp": "add", "A": true, "B": false, "n": 400, "run": 5, "seconds": 0.1260906000097748}
+{"exp": "add", "A": true, "B": false, "n": 400, "run": 6, "seconds": 0.20933540000987705}
+{"exp": "add", "A": true, "B": false, "n": 400, "run": 7, "seconds": 0.12963969999691471}
+{"exp": "add", "A": true, "B": false, "n": 400, "run": 8, "seconds": 0.12735999999858905}
+{"exp": "add", "A": true, "B": false, "n": 400, "run": 9, "seconds": 0.20319080000626855}
+{"exp": "add", "A": true, "B": false, "n": 600, "run": 0, "seconds": 0.1683189999894239}
+{"exp": "add", "A": true, "B": false, "n": 600, "run": 1, "seconds": 0.16783930000383407}
+{"exp": "add", "A": true, "B": false, "n": 600, "run": 2, "seconds": 0.23679660000198055}
+{"exp": "add", "A": true, "B": false, "n": 600, "run": 3, "seconds": 0.16273799999908078}
+{"exp": "add", "A": true, "B": false, "n": 600, "run": 4, "seconds": 0.16666890001215506}
+{"exp": "add", "A": true, "B": false, "n": 600, "run": 5, "seconds": 0.22580790000210982}
+{"exp": "add", "A": true, "B": false, "n": 600, "run": 6, "seconds": 0.16300079999200534}
+{"exp": "add", "A": true, "B": false, "n": 600, "run": 7, "seconds": 0.16494680001051165}
+{"exp": "add", "A": true, "B": false, "n": 600, "run": 8, "seconds": 0.2315433000039775}
+{"exp": "add", "A": true, "B": false, "n": 600, "run": 9, "seconds": 0.1663268000120297}
+{"exp": "add", "A": true, "B": false, "n": 800, "run": 0, "seconds": 0.28257749999465887}
+{"exp": "add", "A": true, "B": false, "n": 800, "run": 1, "seconds": 0.19699409999884665}
+{"exp": "add", "A": true, "B": false, "n": 800, "run": 2, "seconds": 0.20632189999741968}
+{"exp": "add", "A": true, "B": false, "n": 800, "run": 3, "seconds": 0.2960084999940591}
+{"exp": "add", "A": true, "B": false, "n": 800, "run": 4, "seconds": 0.21954400000686292}
+{"exp": "add", "A": true, "B": false, "n": 800, "run": 5, "seconds": 0.22020669998892117}
+{"exp": "add", "A": true, "B": false, "n": 800, "run": 6, "seconds": 0.24667199999385048}
+{"exp": "add", "A": true, "B": false, "n": 800, "run": 7, "seconds": 0.22270559999742545}
+{"exp": "add", "A": true, "B": false, "n": 800, "run": 8, "seconds": 0.2743553000036627}
+{"exp": "add", "A": true, "B": false, "n": 800, "run": 9, "seconds": 0.2105874999979278}
+{"exp": "add", "A": true, "B": false, "n": 1000, "run": 0, "seconds": 0.23526099999435246}
+{"exp": "add", "A": true, "B": false, "n": 1000, "run": 1, "seconds": 0.2412480999919353}
+{"exp": "add", "A": true, "B": false, "n": 1000, "run": 2, "seconds": 0.22915099999227095}
+{"exp": "add", "A": true, "B": false, "n": 1000, "run": 3, "seconds": 0.3011897999967914}
+{"exp": "add", "A": true, "B": false, "n": 1000, "run": 4, "seconds": 0.2298097000020789}
+{"exp": "add", "A": true, "B": false, "n": 1000, "run": 5, "seconds": 0.313252799998736}
+{"exp": "add", "A": true, "B": false, "n": 1000, "run": 6, "seconds": 0.2279673000011826}
+{"exp": "add", "A": true, "B": false, "n": 1000, "run": 7, "seconds": 0.23000470000260975}
+{"exp": "add", "A": true, "B": false, "n": 1000, "run": 8, "seconds": 0.2890297999983886}
+{"exp": "add", "A": true, "B": false, "n": 1000, "run": 9, "seconds": 0.22828450000088196}
+{"exp": "add", "A": true, "B": true, "n": 200, "run": 0, "seconds": 0.39267620000464376}
+{"exp": "add", "A": true, "B": true, "n": 200, "run": 1, "seconds": 0.41205560001253616}
+{"exp": "add", "A": true, "B": true, "n": 200, "run": 2, "seconds": 0.5258175999915693}
+{"exp": "add", "A": true, "B": true, "n": 200, "run": 3, "seconds": 0.6915408999921056}
+{"exp": "add", "A": true, "B": true, "n": 200, "run": 4, "seconds": 0.6236456000042381}
+{"exp": "add", "A": true, "B": true, "n": 200, "run": 5, "seconds": 0.5165586999937659}
+{"exp": "add", "A": true, "B": true, "n": 200, "run": 6, "seconds": 0.4986927999998443}
+{"exp": "add", "A": true, "B": true, "n": 200, "run": 7, "seconds": 0.5717616000038106}
+{"exp": "add", "A": true, "B": true, "n": 200, "run": 8, "seconds": 0.7008924999972805}
+{"exp": "add", "A": true, "B": true, "n": 200, "run": 9, "seconds": 0.4816235000034794}
+{"exp": "add", "A": true, "B": true, "n": 400, "run": 0, "seconds": 0.4832029999961378}
+{"exp": "add", "A": true, "B": true, "n": 400, "run": 1, "seconds": 0.4776992999977665}
+{"exp": "add", "A": true, "B": true, "n": 400, "run": 2, "seconds": 0.576111000002129}
+{"exp": "add", "A": true, "B": true, "n": 400, "run": 3, "seconds": 0.48912460000428837}
+{"exp": "add", "A": true, "B": true, "n": 400, "run": 4, "seconds": 0.5091768999991473}
+{"exp": "add", "A": true, "B": true, "n": 400, "run": 5, "seconds": 0.5282731000042986}
+{"exp": "add", "A": true, "B": true, "n": 400, "run": 6, "seconds": 0.5305986999883316}
+{"exp": "add", "A": true, "B": true, "n": 400, "run": 7, "seconds": 0.5412467000132892}
+{"exp": "add", "A": true, "B": true, "n": 400, "run": 8, "seconds": 0.5314811999996891}
+{"exp": "add", "A": true, "B": true, "n": 400, "run": 9, "seconds": 0.5067605000076583}
+{"exp": "add", "A": true, "B": true, "n": 600, "run": 0, "seconds": 0.5285950000106823}
+{"exp": "add", "A": true, "B": true, "n": 600, "run": 1, "seconds": 0.5075483999971766}
+{"exp": "add", "A": true, "B": true, "n": 600, "run": 2, "seconds": 0.6314415000088047}
+{"exp": "add", "A": true, "B": true, "n": 600, "run": 3, "seconds": 0.5542095999990124}
+{"exp": "add", "A": true, "B": true, "n": 600, "run": 4, "seconds": 0.5725831000017934}
+{"exp": "add", "A": true, "B": true, "n": 600, "run": 5, "seconds": 0.5627915999939432}
+{"exp": "add", "A": true, "B": true, "n": 600, "run": 6, "seconds": 0.5758518999937223}
+{"exp": "add", "A": true, "B": true, "n": 600, "run": 7, "seconds": 0.5648225000040838}
+{"exp": "add", "A": true, "B": true, "n": 600, "run": 8, "seconds": 0.7470272000064142}
+{"exp": "add", "A": true, "B": true, "n": 600, "run": 9, "seconds": 0.5293899999960558}
+{"exp": "add", "A": true, "B": true, "n": 800, "run": 0, "seconds": 0.5232165000052191}
+{"exp": "add", "A": true, "B": true, "n": 800, "run": 1, "seconds": 0.511945399994147}
+{"exp": "add", "A": true, "B": true, "n": 800, "run": 2, "seconds": 0.6969902999990154}
+{"exp": "add", "A": true, "B": true, "n": 800, "run": 3, "seconds": 0.6514626999996835}
+{"exp": "add", "A": true, "B": true, "n": 800, "run": 4, "seconds": 0.5297580000042217}
+{"exp": "add", "A": true, "B": true, "n": 800, "run": 5, "seconds": 0.6640295999968657}
+{"exp": "add", "A": true, "B": true, "n": 800, "run": 6, "seconds": 0.5889123000088148}
+{"exp": "add", "A": true, "B": true, "n": 800, "run": 7, "seconds": 0.629568799995468}
+{"exp": "add", "A": true, "B": true, "n": 800, "run": 8, "seconds": 0.6489290000026813}
+{"exp": "add", "A": true, "B": true, "n": 800, "run": 9, "seconds": 0.6221414000028744}
+{"exp": "add", "A": true, "B": true, "n": 1000, "run": 0, "seconds": 0.8677680999971926}
+{"exp": "add", "A": true, "B": true, "n": 1000, "run": 1, "seconds": 0.7635382000007667}
+{"exp": "add", "A": true, "B": true, "n": 1000, "run": 2, "seconds": 0.7541141000110656}
+{"exp": "add", "A": true, "B": true, "n": 1000, "run": 3, "seconds": 0.6400986000080593}
+{"exp": "add", "A": true, "B": true, "n": 1000, "run": 4, "seconds": 0.7329135000036331}
+{"exp": "add", "A": true, "B": true, "n": 1000, "run": 5, "seconds": 0.6213969000091311}
+{"exp": "add", "A": true, "B": true, "n": 1000, "run": 6, "seconds": 0.5988461999950232}
+{"exp": "add", "A": true, "B": true, "n": 1000, "run": 7, "seconds": 0.8407841000007465}
+{"exp": "add", "A": true, "B": true, "n": 1000, "run": 8, "seconds": 0.7108914000127697}
+{"exp": "add", "A": true, "B": true, "n": 1000, "run": 9, "seconds": 0.6689603999984683}
+{"exp": "compile", "A": true, "B": true, "n": 200, "run": 0, "seconds": 4.389673800003948, "flow_rules": 8137173}
+{"exp": "compile", "A": true, "B": true, "n": 200, "run": 1, "seconds": 4.11841560000903, "flow_rules": 8137173}
+{"exp": "compile", "A": true, "B": true, "n": 200, "run": 2, "seconds": 3.7127742000011494, "flow_rules": 8137173}
+{"exp": "compile", "A": true, "B": true, "n": 200, "run": 3, "seconds": 3.5081936000060523, "flow_rules": 8137173}
+{"exp": "compile", "A": true, "B": true, "n": 200, "run": 4, "seconds": 3.7249827000050573, "flow_rules": 8137173}
+{"exp": "compile", "A": true, "B": true, "n": 200, "run": 5, "seconds": 3.4450226000044495, "flow_rules": 8137173}
+{"exp": "compile", "A": true, "B": true, "n": 200, "run": 6, "seconds": 3.4144849000003887, "flow_rules": 8137173}
+{"exp": "compile", "A": true, "B": true, "n": 200, "run": 7, "seconds": 3.4504739999974845, "flow_rules": 8137173}
+{"exp": "compile", "A": true, "B": true, "n": 200, "run": 8, "seconds": 3.678229299999657, "flow_rules": 8137173}
+{"exp": "compile", "A": true, "B": true, "n": 200, "run": 9, "seconds": 4.091838200009079, "flow_rules": 8137173}
+{"exp": "compile", "A": true, "B": true, "n": 400, "run": 0, "seconds": 3.480373400001554, "flow_rules": 8202570}
+{"exp": "compile", "A": true, "B": true, "n": 400, "run": 1, "seconds": 3.93257750000339, "flow_rules": 8202570}
+{"exp": "compile", "A": true, "B": true, "n": 400, "run": 2, "seconds": 3.7550704999885056, "flow_rules": 8202570}
+{"exp": "compile", "A": true, "B": true, "n": 400, "run": 3, "seconds": 3.6600081999931717, "flow_rules": 8202570}
+{"exp": "compile", "A": true, "B": true, "n": 400, "run": 4, "seconds": 3.7485704999999143, "flow_rules": 8202570}
+{"exp": "compile", "A": true, "B": true, "n": 400, "run": 5, "seconds": 3.6757125000003725, "flow_rules": 8202570}
+{"exp": "compile", "A": true, "B": true, "n": 400, "run": 6, "seconds": 3.817363699999987, "flow_rules": 8202570}
+{"exp": "compile", "A": true, "B": true, "n": 400, "run": 7, "seconds": 3.9916244000050938, "flow_rules": 8202570}
+{"exp": "compile", "A": true, "B": true, "n": 400, "run": 8, "seconds": 3.5065583999967203, "flow_rules": 8202570}
+{"exp": "compile", "A": true, "B": true, "n": 400, "run": 9, "seconds": 3.197455399989849, "flow_rules": 8202570}
+{"exp": "compile", "A": true, "B": true, "n": 600, "run": 0, "seconds": 2.8592273999965983, "flow_rules": 6364208}
+{"exp": "compile", "A": true, "B": true, "n": 600, "run": 1, "seconds": 3.0080091999989236, "flow_rules": 6364208}
+{"exp": "compile", "A": true, "B": true, "n": 600, "run": 2, "seconds": 3.4299335999967298, "flow_rules": 6364208}
+{"exp": "compile", "A": true, "B": true, "n": 600, "run": 3, "seconds": 3.000397099996917, "flow_rules": 6364208}
+{"exp": "compile", "A": true, "B": true, "n": 600, "run": 4, "seconds": 3.3705623999994714, "flow_rules": 6364208}
+{"exp": "compile", "A": true, "B": true, "n": 600, "run": 5, "seconds": 2.515430400002515, "flow_rules": 6364208}
+{"exp": "compile", "A": true, "B": true, "n": 600, "run": 6, "seconds": 2.481438700007857, "flow_rules": 6364208}
+{"exp": "compile", "A": true, "B": true, "n": 600, "run": 7, "seconds": 2.3793217000056757, "flow_rules": 6364208}
+{"exp": "compile", "A": true, "B": true, "n": 600, "run": 8, "seconds": 2.3526931000087643, "flow_rules": 6364208}
+{"exp": "compile", "A": true, "B": true, "n": 600, "run": 9, "seconds": 3.1218991999921855, "flow_rules": 6364208}
+{"exp": "compile", "A": true, "B": true, "n": 800, "run": 0, "seconds": 2.0565303999901516, "flow_rules": 4529131}
+{"exp": "compile", "A": true, "B": true, "n": 800, "run": 1, "seconds": 2.4075062000047183, "flow_rules": 4529131}
+{"exp": "compile", "A": true, "B": true, "n": 800, "run": 2, "seconds": 2.672932100002072, "flow_rules": 4529131}
+{"exp": "compile", "A": true, "B": true, "n": 800, "run": 3, "seconds": 2.027671600008034, "flow_rules": 4529131}
+{"exp": "compile", "A": true, "B": true, "n": 800, "run": 4, "seconds": 2.058761400010553, "flow_rules": 4529131}
+{"exp": "compile", "A": true, "B": true, "n": 800, "run": 5, "seconds": 2.7186833000014303, "flow_rules": 4529131}
+{"exp": "compile", "A": true, "B": true, "n": 800, "run": 6, "seconds": 1.9753376000007847, "flow_rules": 4529131}
+{"exp": "compile", "A": true, "B": true, "n": 800, "run": 7, "seconds": 2.2656646000104956, "flow_rules": 4529131}
+{"exp": "compile", "A": true, "B": true, "n": 800, "run": 8, "seconds": 1.7996377999952529, "flow_rules": 4529131}
+{"exp": "compile", "A": true, "B": true, "n": 800, "run": 9, "seconds": 1.7730135999881895, "flow_rules": 4529131}
+{"exp": "compile", "A": true, "B": true, "n": 1000, "run": 0, "seconds": 1.148485300000175, "flow_rules": 2847560}
+{"exp": "compile", "A": true, "B": true, "n": 1000, "run": 1, "seconds": 1.3259963000018615, "flow_rules": 2847560}
+{"exp": "compile", "A": true, "B": true, "n": 1000, "run": 2, "seconds": 1.4233835000050021, "flow_rules": 2847560}
+{"exp": "compile", "A": true, "B": true, "n": 1000, "run": 3, "seconds": 1.1147834000003058, "flow_rules": 2847560}
+{"exp": "compile", "A": true, "B": true, "n": 1000, "run": 4, "seconds": 1.2608317999984138, "flow_rules": 2847560}
+{"exp": "compile", "A": true, "B": true, "n": 1000, "run": 5, "seconds": 1.2459480999968946, "flow_rules": 2847560}
+{"exp": "compile", "A": true, "B": true, "n": 1000, "run": 6, "seconds": 1.0773076000041328, "flow_rules": 2847560}
+{"exp": "compile", "A": true, "B": true, "n": 1000, "run": 7, "seconds": 1.1415100000012899, "flow_rules": 2847560}
+{"exp": "compile", "A": true, "B": true, "n": 1000, "run": 8, "seconds": 1.1544872999947984, "flow_rules": 2847560}
+{"exp": "compile", "A": true, "B": true, "n": 1000, "run": 9, "seconds": 1.0429478000005474, "flow_rules": 2847560}
+{"exp": "delete", "A": false, "B": false, "n": 200, "run": 0, "seconds": 2.095584399998188}
+{"exp": "delete", "A": false, "B": false, "n": 200, "run": 1, "seconds": 1.8362499000068055}
+{"exp": "delete", "A": false, "B": false, "n": 200, "run": 2, "seconds": 1.801520699998946}
+{"exp": "delete", "A": false, "B": false, "n": 200, "run": 3, "seconds": 1.3768598000024213}
+{"exp": "delete", "A": false, "B": false, "n": 200, "run": 4, "seconds": 1.3444096999883186}
+{"exp": "delete", "A": false, "B": false, "n": 200, "run": 5, "seconds": 2.0953043000045}
+{"exp": "delete", "A": false, "B": false, "n": 200, "run": 6, "seconds": 2.165620100000524}
+{"exp": "delete", "A": false, "B": false, "n": 200, "run": 7, "seconds": 1.5262180999998236}
+{"exp": "delete", "A": false, "B": false, "n": 200, "run": 8, "seconds": 1.5234104999981355}
+{"exp": "delete", "A": false, "B": false, "n": 200, "run": 9, "seconds": 2.3048911999940174}
+{"exp": "delete", "A": false, "B": false, "n": 400, "run": 0, "seconds": 3.530496799998218}
+{"exp": "delete", "A": false, "B": false, "n": 400, "run": 1, "seconds": 3.2153053999936674}
+{"exp": "delete", "A": false, "B": false, "n": 400, "run": 2, "seconds": 2.4610061999992467}
+{"exp": "delete", "A": false, "B": false, "n": 400, "run": 3, "seconds": 2.7639734000113094}
+{"exp": "delete", "A": false, "B": false, "n": 400, "run": 4, "seconds": 3.198765799999819}
+{"exp": "delete", "A": false, "B": false, "n": 400, "run": 5, "seconds": 3.098935399990296}
+{"exp": "delete", "A": false, "B": false, "n": 400, "run": 6, "seconds": 3.004521599999862}
+{"exp": "delete", "A": false, "B": false, "n": 400, "run": 7, "seconds": 2.6717657999979565}
+{"exp": "delete", "A": false, "B": false, "n": 400, "run": 8, "seconds": 2.5658475999953225}
+{"exp": "delete", "A": false, "B": false, "n": 400, "run": 9, "seconds": 3.3611056999943685}
+{"exp": "delete", "A": false, "B": false, "n": 600, "run": 0, "seconds": 4.122103299989249}
+{"exp": "delete", "A": false, "B": false, "n": 600, "run": 1, "seconds": 3.8945876999932807}
+{"exp": "delete", "A": false, "B": false, "n": 600, "run": 2, "seconds": 3.3329072000051383}
+{"exp": "delete", "A": false, "B": false, "n": 600, "run": 3, "seconds": 3.2502132000081474}
+{"exp": "delete", "A": false, "B": false, "n": 600, "run": 4, "seconds": 4.228776300005848}
+{"exp": "delete", "A": false, "B": false, "n": 600, "run": 5, "seconds": 4.107447099988349}
+{"exp": "delete", "A": false, "B": false, "n": 600, "run": 6, "seconds": 3.5200974000035785}
+{"exp": "delete", "A": false, "B": false, "n": 600, "run": 7, "seconds": 4.629505199991399}
+{"exp": "delete", "A": false, "B": false, "n": 600, "run": 8, "seconds": 3.920075000001816}
+{"exp": "delete", "A": false, "B": false, "n": 600, "run": 9, "seconds": 4.071677600004477}
+{"exp": "delete", "A": false, "B": false, "n": 800, "run": 0, "seconds": 4.517148400002043}
+{"exp": "delete", "A": false, "B": false, "n": 800, "run": 1, "seconds": 3.910136800011969}
+{"exp": "delete", "A": false, "B": false, "n": 800, "run": 2, "seconds": 4.2134943999990355}
+{"exp": "delete", "A": false, "B": false, "n": 800, "run": 3, "seconds": 4.635589600002277}
+{"exp": "delete", "A": false, "B": false, "n": 800, "run": 4, "seconds": 4.569595099994331}
+{"exp": "delete", "A": false, "B": false, "n": 800, "run": 5, "seconds": 4.767835199992987}
+{"exp": "delete", "A": false, "B": false, "n": 800, "run": 6, "seconds": 4.267611699993722}
+{"exp": "delete", "A": false, "B": false, "n": 800, "run": 7, "seconds": 4.600597900003777}
+{"exp": "delete", "A": false, "B": false, "n": 800, "run": 8, "seconds": 5.573149099989678}
+{"exp": "delete", "A": false, "B": false, "n": 800, "run": 9, "seconds": 5.309896499995375}
+{"exp": "delete", "A": false, "B": false, "n": 1000, "run": 0, "seconds": 4.831130700011272}
+{"exp": "delete", "A": false, "B": false, "n": 1000, "run": 1, "seconds": 4.893509999994421}
+{"exp": "delete", "A": false, "B": false, "n": 1000, "run": 2, "seconds": 4.518341700008023}
+{"exp": "delete", "A": false, "B": false, "n": 1000, "run": 3, "seconds": 4.441515599988634}
+{"exp": "delete", "A": false, "B": false, "n": 1000, "run": 4, "seconds": 4.385343699992518}
+{"exp": "delete", "A": false, "B": false, "n": 1000, "run": 5, "seconds": 3.9663969999965047}
+{"exp": "delete", "A": false, "B": false, "n": 1000, "run": 6, "seconds": 4.342358800000511}
+{"exp": "delete", "A": false, "B": false, "n": 1000, "run": 7, "seconds": 4.715949999997974}
+{"exp": "delete", "A": false, "B": false, "n": 1000, "run": 8, "seconds": 4.569077199994354}
+{"exp": "delete", "A": false, "B": false, "n": 1000, "run": 9, "seconds": 4.400682200008305}
+{"exp": "delete", "A": false, "B": true, "n": 200, "run": 0, "seconds": 1.142220300011104}
+{"exp": "delete", "A": false, "B": true, "n": 200, "run": 1, "seconds": 1.356672099995194}
+{"exp": "delete", "A": false, "B": true, "n": 200, "run": 2, "seconds": 1.342548500004341}
+{"exp": "delete", "A": false, "B": true, "n": 200, "run": 3, "seconds": 1.3869074000103865}
+{"exp": "delete", "A": false, "B": true, "n": 200, "run": 4, "seconds": 1.5223121000017272}
+{"exp": "delete", "A": false, "B": true, "n": 200, "run": 5, "seconds": 1.3321283999976004}
+{"exp": "delete", "A": false, "B": true, "n": 200, "run": 6, "seconds": 1.3055043000058504}
+{"exp": "delete", "A": false, "B": true, "n": 200, "run": 7, "seconds": 1.4415989999979502}
+{"exp": "delete", "A": false, "B": true, "n": 200, "run": 8, "seconds": 1.3186431000067387}
+{"exp": "delete", "A": false, "B": true, "n": 200, "run": 9, "seconds": 1.4171340000029886}
+{"exp": "delete", "A": false, "B": true, "n": 400, "run": 0, "seconds": 2.1374333999992814}
+{"exp": "delete", "A": false, "B": true, "n": 400, "run": 1, "seconds": 2.1260259999980917}
+{"exp": "delete", "A": false, "B": true, "n": 400, "run": 2, "seconds": 2.1006483000091976}
+{"exp": "delete", "A": false, "B": true, "n": 400, "run": 3, "seconds": 2.357967699994333}
+{"exp": "delete", "A": false, "B": true, "n": 400, "run": 4, "seconds": 2.1283819999953266}
+{"exp": "delete", "A": false, "B": true, "n": 400, "run": 5, "seconds": 1.6078248000121675}
+{"exp": "delete", "A": false, "B": true, "n": 400, "run": 6, "seconds": 1.6219104999909177}
+{"exp": "delete", "A": false, "B": true, "n": 400, "run": 7, "seconds": 1.6821137000079034}
+{"exp": "delete", "A": false, "B": true, "n": 400, "run": 8, "seconds": 1.6561024999973597}
+{"exp": "delete", "A": false, "B": true, "n": 400, "run": 9, "seconds": 1.6843387000117218}
+{"exp": "delete", "A": false, "B": true, "n": 600, "run": 0, "seconds": 2.1055567000003066}
+{"exp": "delete", "A": false, "B": true, "n": 600, "run": 1, "seconds": 2.107662499998696}
+{"exp": "delete", "A": false, "B": true, "n": 600, "run": 2, "seconds": 2.0680326000001514}
+{"exp": "delete", "A": false, "B": true, "n": 600, "run": 3, "seconds": 2.1268076000123983}
+{"exp": "delete", "A": false, "B": true, "n": 600, "run": 4, "seconds": 2.146320800005924}
+{"exp": "delete", "A": false, "B": true, "n": 600, "run": 5, "seconds": 2.1290025000052992}
+{"exp": "delete", "A": false, "B": true, "n": 600, "run": 6, "seconds": 2.2139468000095803}
+{"exp": "delete", "A": false, "B": true, "n": 600, "run": 7, "seconds": 2.463319500006037}
+{"exp": "delete", "A": false, "B": true, "n": 600, "run": 8, "seconds": 2.1865711999998894}
+{"exp": "delete", "A": false, "B": true, "n": 600, "run": 9, "seconds": 2.432773199994699}
+{"exp": "delete", "A": false, "B": true, "n": 800, "run": 0, "seconds": 2.4533825000107754}
+{"exp": "delete", "A": false, "B": true, "n": 800, "run": 1, "seconds": 2.5620775999996113}
+{"exp": "delete", "A": false, "B": true, "n": 800, "run": 2, "seconds": 2.5271058999933302}
+{"exp": "delete", "A": false, "B": true, "n": 800, "run": 3, "seconds": 2.525093799995375}
+{"exp": "delete", "A": false, "B": true, "n": 800, "run": 4, "seconds": 2.4908435000106692}
+{"exp": "delete", "A": false, "B": true, "n": 800, "run": 5, "seconds": 2.4639679999963846}
+{"exp": "delete", "A": false, "B": true, "n": 800, "run": 6, "seconds": 2.923803900004714}
+{"exp": "delete", "A": false, "B": true, "n": 800, "run": 7, "seconds": 2.541228799993405}
+{"exp": "delete", "A": false, "B": true, "n": 800, "run": 8, "seconds": 2.473109700003988}
+{"exp": "delete", "A": false, "B": true, "n": 800, "run": 9, "seconds": 3.1767614999989746}
+{"exp": "delete", "A": false, "B": true, "n": 1000, "run": 0, "seconds": 2.7879937999969115}
+{"exp": "delete", "A": false, "B": true, "n": 1000, "run": 1, "seconds": 3.1682976000010967}
+{"exp": "delete", "A": false, "B": true, "n": 1000, "run": 2, "seconds": 2.686559900001157}
+{"exp": "delete", "A": false, "B": true, "n": 1000, "run": 3, "seconds": 2.623869700008072}
+{"exp": "delete", "A": false, "B": true, "n": 1000, "run": 4, "seconds": 3.293546700006118}
+{"exp": "delete", "A": false, "B": true, "n": 1000, "run": 5, "seconds": 2.746844499997678}
+{"exp": "delete", "A": false, "B": true, "n": 1000, "run": 6, "seconds": 2.785035999986576}
+{"exp": "delete", "A": false, "B": true, "n": 1000, "run": 7, "seconds": 3.277512699991348}
+{"exp": "delete", "A": false, "B": true, "n": 1000, "run": 8, "seconds": 3.0385831000021426}
+{"exp": "delete", "A": false, "B": true, "n": 1000, "run": 9, "seconds": 4.41192170001159}
+{"exp": "add", "A": false, "B": false, "n": 200, "run": 0, "seconds": 24.980809900007444}
+{"exp": "add", "A": false, "B": false, "n": 200, "run": 1, "seconds": 21.827920099996845}
+{"exp": "add", "A": false, "B": false, "n": 200, "run": 2, "seconds": 20.89017220000096}
+{"exp": "add", "A": false, "B": false, "n": 400, "run": 0, "seconds": 37.57952239998849}
+{"exp": "add", "A": false, "B": false, "n": 400, "run": 1, "seconds": 28.91097750001063}
+{"exp": "add", "A": false, "B": false, "n": 400, "run": 2, "seconds": 39.901911100008874}
+{"exp": "add", "A": false, "B": false, "n": 600, "run": 0, "seconds": 72.91410329999053}
+{"exp": "add", "A": false, "B": false, "n": 600, "run": 1, "seconds": 38.75552880000032}
+{"exp": "add", "A": false, "B": false, "n": 600, "run": 2, "seconds": 39.13720260000264}
+{"exp": "add", "A": false, "B": false, "n": 800, "run": 0, "seconds": 46.71433449999313}
+{"exp": "add", "A": false, "B": false, "n": 800, "run": 1, "seconds": 47.52542689999973}
+{"exp": "add", "A": false, "B": false, "n": 800, "run": 2, "seconds": 47.86073889999534}
+{"exp": "add", "A": false, "B": false, "n": 1000, "run": 0, "seconds": 66.7384921000048}
+{"exp": "add", "A": false, "B": false, "n": 1000, "run": 1, "seconds": 62.138611499991384}
+{"exp": "add", "A": false, "B": false, "n": 1000, "run": 2, "seconds": 65.82701470000029}
+{"exp": "add", "A": false, "B": true, "n": 200, "run": 0, "seconds": 37.605021499999566}
+{"exp": "add", "A": false, "B": true, "n": 200, "run": 1, "seconds": 18.512770399989677}
+{"exp": "add", "A": false, "B": true, "n": 200, "run": 2, "seconds": 23.580369500006782}
+{"exp": "add", "A": false, "B": true, "n": 400, "run": 0, "seconds": 34.38060150000092}
+{"exp": "add", "A": false, "B": true, "n": 400, "run": 1, "seconds": 25.882542399995145}
+{"exp": "add", "A": false, "B": true, "n": 400, "run": 2, "seconds": 28.310580400007893}
+{"exp": "add", "A": false, "B": true, "n": 600, "run": 0, "seconds": 49.48950859998877}
+{"exp": "add", "A": false, "B": true, "n": 600, "run": 1, "seconds": 41.3542918000021}
+{"exp": "add", "A": false, "B": true, "n": 600, "run": 2, "seconds": 40.555155599999125}
+{"exp": "add", "A": false, "B": true, "n": 800, "run": 0, "seconds": 28.303682999990997}
+{"exp": "add", "A": false, "B": true, "n": 800, "run": 1, "seconds": 28.61126720000175}
+{"exp": "add", "A": false, "B": true, "n": 800, "run": 2, "seconds": 26.867989100006525}
+{"exp": "add", "A": false, "B": true, "n": 1000, "run": 0, "seconds": 26.858285599999363}
+{"exp": "add", "A": false, "B": true, "n": 1000, "run": 1, "seconds": 25.57037539999874}
+{"exp": "add", "A": false, "B": true, "n": 1000, "run": 2, "seconds": 26.77579020000121}
+{"exp": "epdyn", "A": true, "B": true, "n": null, "run": null, "ms_mean": 3.854807620032807, "ms_std": 2.692683398970712, "rules_removed_mean": 5720.5915, "rules_added_mean": 5729.1119, "initial_flow_rules": 2847560, "eps": 1000, "reps": 10}

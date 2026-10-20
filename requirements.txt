@@ -1,0 +1,6 @@
+# Versions used for the results in agentseg/results (Python 3.12)
+numpy==2.5.4
+pyarrow==26.0.0
+matplotlib==3.11.2
+pytest==9.1.1
+# E6 only, in a separate environment: AgentDojo 0.1.35 (pip install ./datasets/D6_agentdojo) and Ollama with qwen2.5:1.5b

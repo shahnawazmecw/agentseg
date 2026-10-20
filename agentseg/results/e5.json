@@ -1,0 +1,174 @@
+{
+ "msb": {
+  "by_type": {
+   "prompt_injection": {
+    "cases": 300,
+    "P0": 0,
+    "P1": 250,
+    "P2": 250,
+    "P3": 250
+   },
+   "false_error": {
+    "cases": 300,
+    "P0": 0,
+    "P1": 250,
+    "P2": 250,
+    "P3": 250
+   },
+   "name_overlap": {
+    "cases": 80,
+    "P0": 0,
+    "P1": 80,
+    "P2": 80,
+    "P3": 80
+   },
+   "preference_manipulation": {
+    "cases": 80,
+    "P0": 0,
+    "P1": 65,
+    "P2": 80,
+    "P3": 80
+   },
+   "simulated_user": {
+    "cases": 300,
+    "P0": 0,
+    "P1": 250,
+    "P2": 250,
+    "P3": 250
+   },
+   "out_of_scope_parameter": {
+    "cases": 80,
+    "P0": 0,
+    "P1": 0,
+    "P2": 80,
+    "P3": 80
+   },
+   "search_term_deception": {
+    "cases": 20,
+    "P0": 0,
+    "P1": 4,
+    "P2": 4,
+    "P3": 20
+   },
+   "tool_transfer": {
+    "cases": 80,
+    "P0": 0,
+    "P1": 80,
+    "P2": 80,
+    "P3": 80
+   },
+   "preference_manipulation-out_of_scope_parameter": {
+    "cases": 80,
+    "P0": 0,
+    "P1": 80,
+    "P2": 80,
+    "P3": 80
+   },
+   "preference_manipulation-simulated_user": {
+    "cases": 80,
+    "P0": 0,
+    "P1": 65,
+    "P2": 80,
+    "P3": 80
+   },
+   "prompt_injection-simulated_user": {
+    "cases": 300,
+    "P0": 0,
+    "P1": 250,
+    "P2": 250,
+    "P3": 250
+   },
+   "prompt_injection-false_error": {
+    "cases": 300,
+    "P0": 0,
+    "P1": 250,
+    "P2": 250,
+    "P3": 250
+   }
+  },
+  "skipped_no_attack_server": 0,
+  "p3_residual_by_role": {
+   "it_development_management": 250
+  },
+  "benign_task_servers_allowed": {
+   "P2": true,
+   "P3": true
+  },
+  "roles": {
+   "academic_search": [
+    "Paper_Search",
+    "PubMed_MCP_Server"
+   ],
+   "information_retrieval": [
+    "Filesystem_MCP_Server"
+   ],
+   "it_development_management": [
+    "Context7",
+    "Github",
+    "Supabase_MCP_Server",
+    "Terminal_Controller"
+   ],
+   "information_gathering": [
+    "Bright_Data",
+    "Cloudflare_Playwright",
+    "DuckDuckGo_Search_Server",
+    "Exa_Search"
+   ],
+   "llm_enhancement": [
+    "Clear_Thought_Server",
+    "Knowledge_Graph_Memory_Server",
+    "Memory_Tool",
+    "Sequential_Thinking_Tools",
+    "Think_Tool_Server"
+   ],
+   "travel_mobility": [
+    "Hotel_Booking_Server",
+    "Met_Museum_Server",
+    "National_Parks_Information_Server",
+    "Time_MCP_Server"
+   ],
+   "office_assistance": [
+    "Office_Word_Document_Server"
+   ],
+   "team_management": [
+    "ClickUp_MCP_Server",
+    "Linear",
+    "Notion"
+   ],
+   "image_generation": [
+    "Flux_ImageGen_Server"
+   ],
+   "multidisciplinary": [
+    "Todoist_Integration"
+   ]
+  }
+ },
+ "injecagent": {
+  "dh_base": {
+   "cases": 510,
+   "P1": 506,
+   "P2": 510,
+   "same_tool": 0
+  },
+  "ds_base": {
+   "cases": 544,
+   "P1": 544,
+   "P2": 544,
+   "same_tool": 1
+  },
+  "dh_enhanced": {
+   "cases": 510,
+   "P1": 506,
+   "P2": 510,
+   "same_tool": 0
+  },
+  "ds_enhanced": {
+   "cases": 544,
+   "P1": 544,
+   "P2": 544,
+   "same_tool": 1
+  }
+ },
+ "python_decision_ns": 430.9664999891538,
+ "injecagent_decision_ns_median": 1699.9983927235007
+}

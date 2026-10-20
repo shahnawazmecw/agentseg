@@ -1,0 +1,68 @@
+{
+ "pods": 314305,
+ "groups_rules": 50943,
+ "queries": 8163615,
+ "observed_allowed": 8163615,
+ "random_allowed": 23397,
+ "group_hash_ns_observed": 11.57,
+ "group_hash_ns_random": 20.95,
+ "group_sorted_ns_observed": 29.55,
+ "group_sorted_ns_random": 35.47,
+ "subset_queries": 24261,
+ "subset_group_hash_ns": 5.09,
+ "subset_pair_hash_ns": 17.31,
+ "pairwise_rules": 1642233,
+ "build_group_hash_s": 0.0024,
+ "build_group_sorted_s": 0.0069,
+ "build_pair_hash_s": 0.1241,
+ "group_hash_bytes": 516096,
+ "member_bytes": 1257220,
+ "pair_hash_bytes": 16515072,
+ "relabel_ns": 3.26,
+ "cores": 12,
+ "scaling": [
+  {
+   "threads": 1,
+   "decisions_per_s": 86847060
+  },
+  {
+   "threads": 2,
+   "decisions_per_s": 150711130
+  },
+  {
+   "threads": 4,
+   "decisions_per_s": 228377781
+  },
+  {
+   "threads": 6,
+   "decisions_per_s": 302099886
+  },
+  {
+   "threads": 8,
+   "decisions_per_s": 388466096
+  },
+  {
+   "threads": 12,
+   "decisions_per_s": 382202450
+  }
+ ],
+ "runs": 5,
+ "spread": {
+  "group_hash_ns_observed": [
+   8.14,
+   13.23
+  ],
+  "group_hash_ns_random": [
+   14.5,
+   21.78
+  ],
+  "subset_group_hash_ns": [
+   4.47,
+   9.09
+  ],
+  "subset_pair_hash_ns": [
+   11.71,
+   38.01
+  ]
+ }
+}

@@ -1,0 +1,3 @@
+{"target": 100, "microservices": 106, "pods": 11884, "rules": 4961786, "seconds": 7.106742333329748, "seconds_sd": 0.19250488155725728, "peak_bytes": 1156666000, "us_per_rule": 1.4322952125161683, "bytes_per_rule": 233.11485017693226}
+{"target": 200, "microservices": 150, "pods": 12654, "rules": 4998894, "seconds": 7.829718866666856, "seconds_sd": 0.12020109061717786, "peak_bytes": 1167272376, "us_per_rule": 1.5662902367337368, "bytes_per_rule": 233.50612675523826}
+{"target": 400, "microservices": 150, "pods": 12654, "rules": 4998894, "seconds": 7.4381997333354475, "seconds_sd": 0.04096272753105293, "peak_bytes": 1167272344, "us_per_rule": 1.4879690854287864, "bytes_per_rule": 233.50612035382227}

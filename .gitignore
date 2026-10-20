@@ -1,0 +1,12 @@
+# Input data is downloaded separately (see DATASETS.md); never commit it.
+datasets/*
+!datasets/README.md
+# Environments and build output
+.venv*/
+__pycache__/
+.pytest_cache/
+*.pyc
+agentseg/e7/rust_bench/target/
+# Word temporary files
+~$*
+*.tmp

@@ -1,0 +1,324 @@
+{"k": 1000, "stage": "info", "run": 0, "microservices": 1000, "pods": 100537, "intents": 3833, "constraints": 257, "rqs": 3655, "pairwise_rules": 828356806}
+{"k": 1000, "stage": "compose", "run": 0, "seconds": 0.0051270999974804}
+{"k": 1000, "stage": "compose", "run": 1, "seconds": 0.00449000000662636}
+{"k": 1000, "stage": "compose", "run": 2, "seconds": 0.004570500008412637}
+{"k": 1000, "stage": "compose", "run": 3, "seconds": 0.0036395000061020255}
+{"k": 1000, "stage": "compose", "run": 4, "seconds": 0.00401889999920968}
+{"k": 1000, "stage": "compose", "run": 5, "seconds": 0.004605399997672066}
+{"k": 1000, "stage": "compose", "run": 6, "seconds": 0.004349399998318404}
+{"k": 1000, "stage": "compose", "run": 7, "seconds": 0.004138899996178225}
+{"k": 1000, "stage": "compose", "run": 8, "seconds": 0.004414199996972457}
+{"k": 1000, "stage": "compose", "run": 9, "seconds": 0.00443450000602752}
+{"k": 1000, "stage": "verify", "run": 0, "seconds": 0.005166999995708466, "violations": 340, "rq_triples": 3674}
+{"k": 1000, "stage": "verify", "run": 1, "seconds": 0.008754399997997098, "violations": 340, "rq_triples": 3674}
+{"k": 1000, "stage": "verify", "run": 2, "seconds": 0.005647900004987605, "violations": 340, "rq_triples": 3674}
+{"k": 1000, "stage": "verify", "run": 3, "seconds": 0.005055900008301251, "violations": 340, "rq_triples": 3674}
+{"k": 1000, "stage": "verify", "run": 4, "seconds": 0.008384600005229004, "violations": 340, "rq_triples": 3674}
+{"k": 1000, "stage": "verify", "run": 5, "seconds": 0.00522189999173861, "violations": 340, "rq_triples": 3674}
+{"k": 1000, "stage": "verify", "run": 6, "seconds": 0.0049377000104868785, "violations": 340, "rq_triples": 3674}
+{"k": 1000, "stage": "verify", "run": 7, "seconds": 0.007782300002872944, "violations": 340, "rq_triples": 3674}
+{"k": 1000, "stage": "verify", "run": 8, "seconds": 0.005095399988931604, "violations": 340, "rq_triples": 3674}
+{"k": 1000, "stage": "verify", "run": 9, "seconds": 0.0050389000098221, "violations": 340, "rq_triples": 3674}
+{"k": 1000, "stage": "group_compile", "run": 0, "seconds": 0.002582999994046986, "rules": 3850}
+{"k": 1000, "stage": "group_compile", "run": 1, "seconds": 0.0027123000036226586, "rules": 3850}
+{"k": 1000, "stage": "group_compile", "run": 2, "seconds": 0.0027485999889904633, "rules": 3850}
+{"k": 1000, "stage": "group_compile", "run": 3, "seconds": 0.0026725999923655763, "rules": 3850}
+{"k": 1000, "stage": "group_compile", "run": 4, "seconds": 0.002590000003692694, "rules": 3850}
+{"k": 1000, "stage": "group_compile", "run": 5, "seconds": 0.002499299996998161, "rules": 3850}
+{"k": 1000, "stage": "group_compile", "run": 6, "seconds": 0.0025427999935345724, "rules": 3850}
+{"k": 1000, "stage": "group_compile", "run": 7, "seconds": 0.0025052999990293756, "rules": 3850}
+{"k": 1000, "stage": "group_compile", "run": 8, "seconds": 0.00263950000226032, "rules": 3850}
+{"k": 1000, "stage": "group_compile", "run": 9, "seconds": 0.0024630000116303563, "rules": 3850}
+{"k": 1000, "stage": "group_memory", "run": 0, "peak_bytes": 5807376}
+{"k": 1000, "stage": "pairwise_compile", "run": 0, "skipped": "828,356,806 rules > 5,000,000"}
+{"k": 1000, "stage": "pairwise_compile", "run": 1, "skipped": "828,356,806 rules > 5,000,000"}
+{"k": 1000, "stage": "pairwise_compile", "run": 2, "skipped": "828,356,806 rules > 5,000,000"}
+{"k": 1000, "stage": "pairwise_memory", "run": 0, "skipped": "828,356,806 rules > 5,000,000"}
+{"k": 2000, "stage": "info", "run": 0, "microservices": 2016, "pods": 149030, "intents": 8576, "constraints": 486, "rqs": 8160, "pairwise_rules": 1146147147}
+{"k": 2000, "stage": "compose", "run": 0, "seconds": 0.009752500001923181}
+{"k": 2000, "stage": "compose", "run": 1, "seconds": 0.009274299998651259}
+{"k": 2000, "stage": "compose", "run": 2, "seconds": 0.010031900004833005}
+{"k": 2000, "stage": "compose", "run": 3, "seconds": 0.009166299991193227}
+{"k": 2000, "stage": "compose", "run": 4, "seconds": 0.009391600004164502}
+{"k": 2000, "stage": "compose", "run": 5, "seconds": 0.009192199999233708}
+{"k": 2000, "stage": "compose", "run": 6, "seconds": 0.00925930000084918}
+{"k": 2000, "stage": "compose", "run": 7, "seconds": 0.009401100003742613}
+{"k": 2000, "stage": "compose", "run": 8, "seconds": 0.010772000008728355}
+{"k": 2000, "stage": "compose", "run": 9, "seconds": 0.010085800007800572}
+{"k": 2000, "stage": "verify", "run": 0, "seconds": 0.010545299999648705, "violations": 901, "rq_triples": 8201}
+{"k": 2000, "stage": "verify", "run": 1, "seconds": 0.010753899987321347, "violations": 901, "rq_triples": 8201}
+{"k": 2000, "stage": "verify", "run": 2, "seconds": 0.010786600003484637, "violations": 901, "rq_triples": 8201}
+{"k": 2000, "stage": "verify", "run": 3, "seconds": 0.01047429999744054, "violations": 901, "rq_triples": 8201}
+{"k": 2000, "stage": "verify", "run": 4, "seconds": 0.010809100000187755, "violations": 901, "rq_triples": 8201}
+{"k": 2000, "stage": "verify", "run": 5, "seconds": 0.011574499993002973, "violations": 901, "rq_triples": 8201}
+{"k": 2000, "stage": "verify", "run": 6, "seconds": 0.010888799995882437, "violations": 901, "rq_triples": 8201}
+{"k": 2000, "stage": "verify", "run": 7, "seconds": 0.010890699995798059, "violations": 901, "rq_triples": 8201}
+{"k": 2000, "stage": "verify", "run": 8, "seconds": 0.010469599990756251, "violations": 901, "rq_triples": 8201}
+{"k": 2000, "stage": "verify", "run": 9, "seconds": 0.010739399993326515, "violations": 901, "rq_triples": 8201}
+{"k": 2000, "stage": "group_compile", "run": 0, "seconds": 0.004117499993299134, "rules": 8614}
+{"k": 2000, "stage": "group_compile", "run": 1, "seconds": 0.004096499993465841, "rules": 8614}
+{"k": 2000, "stage": "group_compile", "run": 2, "seconds": 0.005949700003839098, "rules": 8614}
+{"k": 2000, "stage": "group_compile", "run": 3, "seconds": 0.004242599999997765, "rules": 8614}
+{"k": 2000, "stage": "group_compile", "run": 4, "seconds": 0.0041705000039655715, "rules": 8614}
+{"k": 2000, "stage": "group_compile", "run": 5, "seconds": 0.004305499998736195, "rules": 8614}
+{"k": 2000, "stage": "group_compile", "run": 6, "seconds": 0.004433699999935925, "rules": 8614}
+{"k": 2000, "stage": "group_compile", "run": 7, "seconds": 0.004067900008521974, "rules": 8614}
+{"k": 2000, "stage": "group_compile", "run": 8, "seconds": 0.004318699997384101, "rules": 8614}
+{"k": 2000, "stage": "group_compile", "run": 9, "seconds": 0.004001000008429401, "rules": 8614}
+{"k": 2000, "stage": "group_memory", "run": 0, "peak_bytes": 6437592}
+{"k": 2000, "stage": "pairwise_compile", "run": 0, "skipped": "1,146,147,147 rules > 5,000,000"}
+{"k": 2000, "stage": "pairwise_compile", "run": 1, "skipped": "1,146,147,147 rules > 5,000,000"}
+{"k": 2000, "stage": "pairwise_compile", "run": 2, "skipped": "1,146,147,147 rules > 5,000,000"}
+{"k": 2000, "stage": "pairwise_memory", "run": 0, "skipped": "1,146,147,147 rules > 5,000,000"}
+{"k": 4000, "stage": "info", "run": 0, "microservices": 4000, "pods": 206401, "intents": 16748, "constraints": 892, "rqs": 15866, "pairwise_rules": 1380400412}
+{"k": 4000, "stage": "compose", "run": 0, "seconds": 0.02616519998991862}
+{"k": 4000, "stage": "compose", "run": 1, "seconds": 0.028127199999289587}
+{"k": 4000, "stage": "compose", "run": 2, "seconds": 0.027791300002718344}
+{"k": 4000, "stage": "compose", "run": 3, "seconds": 0.024292600006447174}
+{"k": 4000, "stage": "compose", "run": 4, "seconds": 0.017757900001015514}
+{"k": 4000, "stage": "compose", "run": 5, "seconds": 0.018779199992422946}
+{"k": 4000, "stage": "compose", "run": 6, "seconds": 0.018127300005289726}
+{"k": 4000, "stage": "compose", "run": 7, "seconds": 0.018478600002708845}
+{"k": 4000, "stage": "compose", "run": 8, "seconds": 0.017155900000943802}
+{"k": 4000, "stage": "compose", "run": 9, "seconds": 0.017914900003233925}
+{"k": 4000, "stage": "verify", "run": 0, "seconds": 0.02283089999400545, "violations": 2008, "rq_triples": 15932}
+{"k": 4000, "stage": "verify", "run": 1, "seconds": 0.020657000000937842, "violations": 2008, "rq_triples": 15932}
+{"k": 4000, "stage": "verify", "run": 2, "seconds": 0.02263600000878796, "violations": 2008, "rq_triples": 15932}
+{"k": 4000, "stage": "verify", "run": 3, "seconds": 0.02053560000786092, "violations": 2008, "rq_triples": 15932}
+{"k": 4000, "stage": "verify", "run": 4, "seconds": 0.020393200000398792, "violations": 2008, "rq_triples": 15932}
+{"k": 4000, "stage": "verify", "run": 5, "seconds": 0.018869600011385046, "violations": 2008, "rq_triples": 15932}
+{"k": 4000, "stage": "verify", "run": 6, "seconds": 0.02348780000465922, "violations": 2008, "rq_triples": 15932}
+{"k": 4000, "stage": "verify", "run": 7, "seconds": 0.024691700004041195, "violations": 2008, "rq_triples": 15932}
+{"k": 4000, "stage": "verify", "run": 8, "seconds": 0.01992590000736527, "violations": 2008, "rq_triples": 15932}
+{"k": 4000, "stage": "verify", "run": 9, "seconds": 0.021859099986613728, "violations": 2008, "rq_triples": 15932}
+{"k": 4000, "stage": "group_compile", "run": 0, "seconds": 0.006791600011638366, "rules": 16812}
+{"k": 4000, "stage": "group_compile", "run": 1, "seconds": 0.0076333000033628196, "rules": 16812}
+{"k": 4000, "stage": "group_compile", "run": 2, "seconds": 0.00718800000322517, "rules": 16812}
+{"k": 4000, "stage": "group_compile", "run": 3, "seconds": 0.006897000013850629, "rules": 16812}
+{"k": 4000, "stage": "group_compile", "run": 4, "seconds": 0.006929700000910088, "rules": 16812}
+{"k": 4000, "stage": "group_compile", "run": 5, "seconds": 0.006939200000488199, "rules": 16812}
+{"k": 4000, "stage": "group_compile", "run": 6, "seconds": 0.0070604999928036705, "rules": 16812}
+{"k": 4000, "stage": "group_compile", "run": 7, "seconds": 0.007380700000794604, "rules": 16812}
+{"k": 4000, "stage": "group_compile", "run": 8, "seconds": 0.0071161999949254096, "rules": 16812}
+{"k": 4000, "stage": "group_compile", "run": 9, "seconds": 0.007135699997888878, "rules": 16812}
+{"k": 4000, "stage": "group_memory", "run": 0, "peak_bytes": 12760184}
+{"k": 4000, "stage": "pairwise_compile", "run": 0, "skipped": "1,380,400,412 rules > 5,000,000"}
+{"k": 4000, "stage": "pairwise_compile", "run": 1, "skipped": "1,380,400,412 rules > 5,000,000"}
+{"k": 4000, "stage": "pairwise_compile", "run": 2, "skipped": "1,380,400,412 rules > 5,000,000"}
+{"k": 4000, "stage": "pairwise_memory", "run": 0, "skipped": "1,380,400,412 rules > 5,000,000"}
+{"k": 8000, "stage": "info", "run": 0, "microservices": 8002, "pods": 270249, "intents": 31280, "constraints": 1778, "rqs": 29173, "pairwise_rules": 1629006251}
+{"k": 8000, "stage": "compose", "run": 0, "seconds": 0.031606899996404536}
+{"k": 8000, "stage": "compose", "run": 1, "seconds": 0.03078539999842178}
+{"k": 8000, "stage": "compose", "run": 2, "seconds": 0.03594810000504367}
+{"k": 8000, "stage": "compose", "run": 3, "seconds": 0.03114829999685753}
+{"k": 8000, "stage": "compose", "run": 4, "seconds": 0.03046829999948386}
+{"k": 8000, "stage": "compose", "run": 5, "seconds": 0.0326682000013534}
+{"k": 8000, "stage": "compose", "run": 6, "seconds": 0.03360540000721812}
+{"k": 8000, "stage": "compose", "run": 7, "seconds": 0.035799999997834675}
+{"k": 8000, "stage": "compose", "run": 8, "seconds": 0.034752599996863864}
+{"k": 8000, "stage": "compose", "run": 9, "seconds": 0.03669330000411719}
+{"k": 8000, "stage": "verify", "run": 0, "seconds": 0.0450115999992704, "violations": 4206, "rq_triples": 29293}
+{"k": 8000, "stage": "verify", "run": 1, "seconds": 0.03707330000179354, "violations": 4206, "rq_triples": 29293}
+{"k": 8000, "stage": "verify", "run": 2, "seconds": 0.038564600006793626, "violations": 4206, "rq_triples": 29293}
+{"k": 8000, "stage": "verify", "run": 3, "seconds": 0.03842140000779182, "violations": 4206, "rq_triples": 29293}
+{"k": 8000, "stage": "verify", "run": 4, "seconds": 0.041546599997673184, "violations": 4206, "rq_triples": 29293}
+{"k": 8000, "stage": "verify", "run": 5, "seconds": 0.03828310000244528, "violations": 4206, "rq_triples": 29293}
+{"k": 8000, "stage": "verify", "run": 6, "seconds": 0.0411547999974573, "violations": 4206, "rq_triples": 29293}
+{"k": 8000, "stage": "verify", "run": 7, "seconds": 0.03843020000203978, "violations": 4206, "rq_triples": 29293}
+{"k": 8000, "stage": "verify", "run": 8, "seconds": 0.0427207000029739, "violations": 4206, "rq_triples": 29293}
+{"k": 8000, "stage": "verify", "run": 9, "seconds": 0.04490200000873301, "violations": 4206, "rq_triples": 29293}
+{"k": 8000, "stage": "group_compile", "run": 0, "seconds": 0.012357200001133606, "rules": 31403}
+{"k": 8000, "stage": "group_compile", "run": 1, "seconds": 0.0121173999941675, "rules": 31403}
+{"k": 8000, "stage": "group_compile", "run": 2, "seconds": 0.0123751000064658, "rules": 31403}
+{"k": 8000, "stage": "group_compile", "run": 3, "seconds": 0.01269509999838192, "rules": 31403}
+{"k": 8000, "stage": "group_compile", "run": 4, "seconds": 0.011932399997022003, "rules": 31403}
+{"k": 8000, "stage": "group_compile", "run": 5, "seconds": 0.012742299993988127, "rules": 31403}
+{"k": 8000, "stage": "group_compile", "run": 6, "seconds": 0.012460599988116883, "rules": 31403}
+{"k": 8000, "stage": "group_compile", "run": 7, "seconds": 0.011444400006439537, "rules": 31403}
+{"k": 8000, "stage": "group_compile", "run": 8, "seconds": 0.012196199997561052, "rules": 31403}
+{"k": 8000, "stage": "group_compile", "run": 9, "seconds": 0.012199799995869398, "rules": 31403}
+{"k": 8000, "stage": "group_memory", "run": 0, "peak_bytes": 14703992}
+{"k": 8000, "stage": "pairwise_compile", "run": 0, "skipped": "1,629,006,251 rules > 5,000,000"}
+{"k": 8000, "stage": "pairwise_compile", "run": 1, "skipped": "1,629,006,251 rules > 5,000,000"}
+{"k": 8000, "stage": "pairwise_compile", "run": 2, "skipped": "1,629,006,251 rules > 5,000,000"}
+{"k": 8000, "stage": "pairwise_memory", "run": 0, "skipped": "1,629,006,251 rules > 5,000,000"}
+{"k": "all", "stage": "info", "run": 0, "microservices": 16291, "pods": 314363, "intents": 50783, "constraints": 3738, "rqs": 45028, "pairwise_rules": 1676043911}
+{"k": "all", "stage": "compose", "run": 0, "seconds": 0.0602431000006618}
+{"k": "all", "stage": "compose", "run": 1, "seconds": 0.060861499994643964}
+{"k": "all", "stage": "compose", "run": 2, "seconds": 0.06368289999954868}
+{"k": "all", "stage": "compose", "run": 3, "seconds": 0.066000199993141}
+{"k": "all", "stage": "compose", "run": 4, "seconds": 0.05737989999761339}
+{"k": "all", "stage": "compose", "run": 5, "seconds": 0.0676722000062}
+{"k": "all", "stage": "compose", "run": 6, "seconds": 0.06890949999797158}
+{"k": "all", "stage": "compose", "run": 7, "seconds": 0.05649730000004638}
+{"k": "all", "stage": "compose", "run": 8, "seconds": 0.06717429999844171}
+{"k": "all", "stage": "compose", "run": 9, "seconds": 0.06500620000588242}
+{"k": "all", "stage": "verify", "run": 0, "seconds": 0.07223709998652339, "violations": 7991, "rq_triples": 45182}
+{"k": "all", "stage": "verify", "run": 1, "seconds": 0.06681209999078419, "violations": 7991, "rq_triples": 45182}
+{"k": "all", "stage": "verify", "run": 2, "seconds": 0.07561700000951532, "violations": 7991, "rq_triples": 45182}
+{"k": "all", "stage": "verify", "run": 3, "seconds": 0.06726609999896027, "violations": 7991, "rq_triples": 45182}
+{"k": "all", "stage": "verify", "run": 4, "seconds": 0.06761710000864696, "violations": 7991, "rq_triples": 45182}
+{"k": "all", "stage": "verify", "run": 5, "seconds": 0.06801390000327956, "violations": 7991, "rq_triples": 45182}
+{"k": "all", "stage": "verify", "run": 6, "seconds": 0.06627799999841955, "violations": 7991, "rq_triples": 45182}
+{"k": "all", "stage": "verify", "run": 7, "seconds": 0.06752620000042953, "violations": 7991, "rq_triples": 45182}
+{"k": "all", "stage": "verify", "run": 8, "seconds": 0.06959949999873061, "violations": 7991, "rq_triples": 45182}
+{"k": "all", "stage": "verify", "run": 9, "seconds": 0.07248630000685807, "violations": 7991, "rq_triples": 45182}
+{"k": "all", "stage": "group_compile", "run": 0, "seconds": 0.01965659999405034, "rules": 50935}
+{"k": "all", "stage": "group_compile", "run": 1, "seconds": 0.019473799999104813, "rules": 50935}
+{"k": "all", "stage": "group_compile", "run": 2, "seconds": 0.02357530000153929, "rules": 50935}
+{"k": "all", "stage": "group_compile", "run": 3, "seconds": 0.01973559999896679, "rules": 50935}
+{"k": "all", "stage": "group_compile", "run": 4, "seconds": 0.019736699992790818, "rules": 50935}
+{"k": "all", "stage": "group_compile", "run": 5, "seconds": 0.02054080000380054, "rules": 50935}
+{"k": "all", "stage": "group_compile", "run": 6, "seconds": 0.01957360000233166, "rules": 50935}
+{"k": "all", "stage": "group_compile", "run": 7, "seconds": 0.021239500012598, "rules": 50935}
+{"k": "all", "stage": "group_compile", "run": 8, "seconds": 0.02190110000083223, "rules": 50935}
+{"k": "all", "stage": "group_compile", "run": 9, "seconds": 0.019943599996622652, "rules": 50935}
+{"k": "all", "stage": "group_memory", "run": 0, "peak_bytes": 17803344}
+{"k": "all", "stage": "pairwise_compile", "run": 0, "skipped": "1,676,043,911 rules > 5,000,000"}
+{"k": "all", "stage": "pairwise_compile", "run": 1, "skipped": "1,676,043,911 rules > 5,000,000"}
+{"k": "all", "stage": "pairwise_compile", "run": 2, "skipped": "1,676,043,911 rules > 5,000,000"}
+{"k": "all", "stage": "pairwise_memory", "run": 0, "skipped": "1,676,043,911 rules > 5,000,000"}
+{"k": 50, "stage": "info", "run": 0, "microservices": 50, "pods": 6332, "intents": 131, "constraints": 19, "rqs": 117, "pairwise_rules": 1643196}
+{"k": 50, "stage": "compose", "run": 0, "seconds": 0.0002564000023994595}
+{"k": 50, "stage": "compose", "run": 1, "seconds": 0.0002246000076411292}
+{"k": 50, "stage": "compose", "run": 2, "seconds": 0.00019690000044647604}
+{"k": 50, "stage": "compose", "run": 3, "seconds": 0.0003684999974211678}
+{"k": 50, "stage": "compose", "run": 4, "seconds": 0.00019700000120792538}
+{"k": 50, "stage": "compose", "run": 5, "seconds": 0.0002040999970631674}
+{"k": 50, "stage": "compose", "run": 6, "seconds": 0.00020220001169946045}
+{"k": 50, "stage": "compose", "run": 7, "seconds": 0.0003623999946285039}
+{"k": 50, "stage": "compose", "run": 8, "seconds": 0.00020799999765586108}
+{"k": 50, "stage": "compose", "run": 9, "seconds": 0.00020799999765586108}
+{"k": 50, "stage": "verify", "run": 0, "seconds": 0.00024789999588392675, "violations": 2, "rq_triples": 118}
+{"k": 50, "stage": "verify", "run": 1, "seconds": 0.00022289999469649047, "violations": 2, "rq_triples": 118}
+{"k": 50, "stage": "verify", "run": 2, "seconds": 0.00023770000552758574, "violations": 2, "rq_triples": 118}
+{"k": 50, "stage": "verify", "run": 3, "seconds": 0.00022319999698083848, "violations": 2, "rq_triples": 118}
+{"k": 50, "stage": "verify", "run": 4, "seconds": 0.00022420000459533185, "violations": 2, "rq_triples": 118}
+{"k": 50, "stage": "verify", "run": 5, "seconds": 0.0002271999983349815, "violations": 2, "rq_triples": 118}
+{"k": 50, "stage": "verify", "run": 6, "seconds": 0.0002263000060338527, "violations": 2, "rq_triples": 118}
+{"k": 50, "stage": "verify", "run": 7, "seconds": 0.00022790000366512686, "violations": 2, "rq_triples": 118}
+{"k": 50, "stage": "verify", "run": 8, "seconds": 0.00022449999232776463, "violations": 2, "rq_triples": 118}
+{"k": 50, "stage": "verify", "run": 9, "seconds": 0.00022879999596625566, "violations": 2, "rq_triples": 118}
+{"k": 50, "stage": "group_compile", "run": 0, "seconds": 0.00015559999155811965, "rules": 132}
+{"k": 50, "stage": "group_compile", "run": 1, "seconds": 0.00013970000145491213, "rules": 132}
+{"k": 50, "stage": "group_compile", "run": 2, "seconds": 0.00015490000077988952, "rules": 132}
+{"k": 50, "stage": "group_compile", "run": 3, "seconds": 0.00013469999248627573, "rules": 132}
+{"k": 50, "stage": "group_compile", "run": 4, "seconds": 0.00014699999883305281, "rules": 132}
+{"k": 50, "stage": "group_compile", "run": 5, "seconds": 0.00014479999663308263, "rules": 132}
+{"k": 50, "stage": "group_compile", "run": 6, "seconds": 0.00014879999798722565, "rules": 132}
+{"k": 50, "stage": "group_compile", "run": 7, "seconds": 0.00027129999944008887, "rules": 132}
+{"k": 50, "stage": "group_compile", "run": 8, "seconds": 0.00014080000983085483, "rules": 132}
+{"k": 50, "stage": "group_compile", "run": 9, "seconds": 0.00015259999781847, "rules": 132}
+{"k": 50, "stage": "group_memory", "run": 0, "peak_bytes": 321888}
+{"k": 50, "stage": "pairwise_compile", "run": 0, "seconds": 1.6887217000039527, "rules": 1642233}
+{"k": 50, "stage": "pairwise_compile", "run": 1, "seconds": 1.7868622999958461, "rules": 1642233}
+{"k": 50, "stage": "pairwise_compile", "run": 2, "seconds": 1.6811251000035554, "rules": 1642233}
+{"k": 50, "stage": "pairwise_memory", "run": 0, "peak_bytes": 478441968}
+{"k": 100, "stage": "info", "run": 0, "microservices": 102, "pods": 11408, "intents": 230, "constraints": 36, "rqs": 216, "pairwise_rules": 9611755}
+{"k": 100, "stage": "compose", "run": 0, "seconds": 0.0003512999974191189}
+{"k": 100, "stage": "compose", "run": 1, "seconds": 0.00035149999894201756}
+{"k": 100, "stage": "compose", "run": 2, "seconds": 0.000338400001055561}
+{"k": 100, "stage": "compose", "run": 3, "seconds": 0.00040380000427830964}
+{"k": 100, "stage": "compose", "run": 4, "seconds": 0.0003642999945441261}
+{"k": 100, "stage": "compose", "run": 5, "seconds": 0.00038559999666176736}
+{"k": 100, "stage": "compose", "run": 6, "seconds": 0.0003480999876046553}
+{"k": 100, "stage": "compose", "run": 7, "seconds": 0.00039709999691694975}
+{"k": 100, "stage": "compose", "run": 8, "seconds": 0.00033680000342428684}
+{"k": 100, "stage": "compose", "run": 9, "seconds": 0.0003532999980961904}
+{"k": 100, "stage": "verify", "run": 0, "seconds": 0.000407600004109554, "violations": 14, "rq_triples": 218}
+{"k": 100, "stage": "verify", "run": 1, "seconds": 0.0003909999941242859, "violations": 14, "rq_triples": 218}
+{"k": 100, "stage": "verify", "run": 2, "seconds": 0.0005398000066634268, "violations": 14, "rq_triples": 218}
+{"k": 100, "stage": "verify", "run": 3, "seconds": 0.00047709999489597976, "violations": 14, "rq_triples": 218}
+{"k": 100, "stage": "verify", "run": 4, "seconds": 0.00042290000419598073, "violations": 14, "rq_triples": 218}
+{"k": 100, "stage": "verify", "run": 5, "seconds": 0.0003755999932764098, "violations": 14, "rq_triples": 218}
+{"k": 100, "stage": "verify", "run": 6, "seconds": 0.00040729998727329075, "violations": 14, "rq_triples": 218}
+{"k": 100, "stage": "verify", "run": 7, "seconds": 0.000407900006393902, "violations": 14, "rq_triples": 218}
+{"k": 100, "stage": "verify", "run": 8, "seconds": 0.00038810000114608556, "violations": 14, "rq_triples": 218}
+{"k": 100, "stage": "verify", "run": 9, "seconds": 0.00043700000969693065, "violations": 14, "rq_triples": 218}
+{"k": 100, "stage": "group_compile", "run": 0, "seconds": 0.00038130000757519156, "rules": 232}
+{"k": 100, "stage": "group_compile", "run": 1, "seconds": 0.0003895000118063763, "rules": 232}
+{"k": 100, "stage": "group_compile", "run": 2, "seconds": 0.00026339999749325216, "rules": 232}
+{"k": 100, "stage": "group_compile", "run": 3, "seconds": 0.00027370000316295773, "rules": 232}
+{"k": 100, "stage": "group_compile", "run": 4, "seconds": 0.0002690999972401187, "rules": 232}
+{"k": 100, "stage": "group_compile", "run": 5, "seconds": 0.00026360001356806606, "rules": 232}
+{"k": 100, "stage": "group_compile", "run": 6, "seconds": 0.00026679999427869916, "rules": 232}
+{"k": 100, "stage": "group_compile", "run": 7, "seconds": 0.00024389999452978373, "rules": 232}
+{"k": 100, "stage": "group_compile", "run": 8, "seconds": 0.00027469999622553587, "rules": 232}
+{"k": 100, "stage": "group_compile", "run": 9, "seconds": 0.00027019999106414616, "rules": 232}
+{"k": 100, "stage": "group_memory", "run": 0, "peak_bytes": 639176}
+{"k": 100, "stage": "pairwise_compile", "run": 0, "skipped": "9,611,755 rules > 5,000,000"}
+{"k": 100, "stage": "pairwise_compile", "run": 1, "skipped": "9,611,755 rules > 5,000,000"}
+{"k": 100, "stage": "pairwise_compile", "run": 2, "skipped": "9,611,755 rules > 5,000,000"}
+{"k": 100, "stage": "pairwise_memory", "run": 0, "skipped": "9,611,755 rules > 5,000,000"}
+{"k": 200, "stage": "info", "run": 0, "microservices": 222, "pods": 45358, "intents": 653, "constraints": 74, "rqs": 628, "pairwise_rules": 490485087}
+{"k": 200, "stage": "compose", "run": 0, "seconds": 0.000857399994856678}
+{"k": 200, "stage": "compose", "run": 1, "seconds": 0.0008471999899484217}
+{"k": 200, "stage": "compose", "run": 2, "seconds": 0.001065900010871701}
+{"k": 200, "stage": "compose", "run": 3, "seconds": 0.000825399998575449}
+{"k": 200, "stage": "compose", "run": 4, "seconds": 0.0008070000039879233}
+{"k": 200, "stage": "compose", "run": 5, "seconds": 0.000852100012707524}
+{"k": 200, "stage": "compose", "run": 6, "seconds": 0.0007932000007713214}
+{"k": 200, "stage": "compose", "run": 7, "seconds": 0.0008632999961264431}
+{"k": 200, "stage": "compose", "run": 8, "seconds": 0.0009636000031605363}
+{"k": 200, "stage": "compose", "run": 9, "seconds": 0.000893999997060746}
+{"k": 200, "stage": "verify", "run": 0, "seconds": 0.0010567999997874722, "violations": 45, "rq_triples": 634}
+{"k": 200, "stage": "verify", "run": 1, "seconds": 0.0008974999946076423, "violations": 45, "rq_triples": 634}
+{"k": 200, "stage": "verify", "run": 2, "seconds": 0.0009064000041689724, "violations": 45, "rq_triples": 634}
+{"k": 200, "stage": "verify", "run": 3, "seconds": 0.0009590999979991466, "violations": 45, "rq_triples": 634}
+{"k": 200, "stage": "verify", "run": 4, "seconds": 0.0008875999919837341, "violations": 45, "rq_triples": 634}
+{"k": 200, "stage": "verify", "run": 5, "seconds": 0.0008635999984107912, "violations": 45, "rq_triples": 634}
+{"k": 200, "stage": "verify", "run": 6, "seconds": 0.0008863000111887231, "violations": 45, "rq_triples": 634}
+{"k": 200, "stage": "verify", "run": 7, "seconds": 0.0010366000060457736, "violations": 45, "rq_triples": 634}
+{"k": 200, "stage": "verify", "run": 8, "seconds": 0.0009271000017179176, "violations": 45, "rq_triples": 634}
+{"k": 200, "stage": "verify", "run": 9, "seconds": 0.0009091000101761892, "violations": 45, "rq_triples": 634}
+{"k": 200, "stage": "group_compile", "run": 0, "seconds": 0.0008655999990878627, "rules": 660}
+{"k": 200, "stage": "group_compile", "run": 1, "seconds": 0.0009353999921586365, "rules": 660}
+{"k": 200, "stage": "group_compile", "run": 2, "seconds": 0.0009146000084001571, "rules": 660}
+{"k": 200, "stage": "group_compile", "run": 3, "seconds": 0.0008637999999336898, "rules": 660}
+{"k": 200, "stage": "group_compile", "run": 4, "seconds": 0.0009223999950336292, "rules": 660}
+{"k": 200, "stage": "group_compile", "run": 5, "seconds": 0.001105699993786402, "rules": 660}
+{"k": 200, "stage": "group_compile", "run": 6, "seconds": 0.0009234000026481226, "rules": 660}
+{"k": 200, "stage": "group_compile", "run": 7, "seconds": 0.0012932000099681318, "rules": 660}
+{"k": 200, "stage": "group_compile", "run": 8, "seconds": 0.000939800011110492, "rules": 660}
+{"k": 200, "stage": "group_compile", "run": 9, "seconds": 0.0009724999981699511, "rules": 660}
+{"k": 200, "stage": "group_memory", "run": 0, "peak_bytes": 2734536}
+{"k": 200, "stage": "pairwise_compile", "run": 0, "skipped": "490,485,087 rules > 5,000,000"}
+{"k": 200, "stage": "pairwise_compile", "run": 1, "skipped": "490,485,087 rules > 5,000,000"}
+{"k": 200, "stage": "pairwise_compile", "run": 2, "skipped": "490,485,087 rules > 5,000,000"}
+{"k": 200, "stage": "pairwise_memory", "run": 0, "skipped": "490,485,087 rules > 5,000,000"}
+{"k": 400, "stage": "info", "run": 0, "microservices": 404, "pods": 57582, "intents": 1302, "constraints": 128, "rqs": 1260, "pairwise_rules": 590236962}
+{"k": 400, "stage": "compose", "run": 0, "seconds": 0.0013995999906910583}
+{"k": 400, "stage": "compose", "run": 1, "seconds": 0.0015792000049259514}
+{"k": 400, "stage": "compose", "run": 2, "seconds": 0.001598799994098954}
+{"k": 400, "stage": "compose", "run": 3, "seconds": 0.0016455000004498288}
+{"k": 400, "stage": "compose", "run": 4, "seconds": 0.001440300009562634}
+{"k": 400, "stage": "compose", "run": 5, "seconds": 0.0016229000029852614}
+{"k": 400, "stage": "compose", "run": 6, "seconds": 0.001537299991468899}
+{"k": 400, "stage": "compose", "run": 7, "seconds": 0.001517900003818795}
+{"k": 400, "stage": "compose", "run": 8, "seconds": 0.001680399989709258}
+{"k": 400, "stage": "compose", "run": 9, "seconds": 0.0016331000078935176}
+{"k": 400, "stage": "verify", "run": 0, "seconds": 0.002053200005320832, "violations": 99, "rq_triples": 1267}
+{"k": 400, "stage": "verify", "run": 1, "seconds": 0.001644699994358234, "violations": 99, "rq_triples": 1267}
+{"k": 400, "stage": "verify", "run": 2, "seconds": 0.0019705000013345852, "violations": 99, "rq_triples": 1267}
+{"k": 400, "stage": "verify", "run": 3, "seconds": 0.0018826000014087185, "violations": 99, "rq_triples": 1267}
+{"k": 400, "stage": "verify", "run": 4, "seconds": 0.00210460000380408, "violations": 99, "rq_triples": 1267}
+{"k": 400, "stage": "verify", "run": 5, "seconds": 0.0031135000026552007, "violations": 99, "rq_triples": 1267}
+{"k": 400, "stage": "verify", "run": 6, "seconds": 0.00224539999908302, "violations": 99, "rq_triples": 1267}
+{"k": 400, "stage": "verify", "run": 7, "seconds": 0.0021336000063456595, "violations": 99, "rq_triples": 1267}
+{"k": 400, "stage": "verify", "run": 8, "seconds": 0.001998199993977323, "violations": 99, "rq_triples": 1267}
+{"k": 400, "stage": "verify", "run": 9, "seconds": 0.0017568000039318576, "violations": 99, "rq_triples": 1267}
+{"k": 400, "stage": "group_compile", "run": 0, "seconds": 0.0013418000016827136, "rules": 1310}
+{"k": 400, "stage": "group_compile", "run": 1, "seconds": 0.0015340999962063506, "rules": 1310}
+{"k": 400, "stage": "group_compile", "run": 2, "seconds": 0.0012013999948976561, "rules": 1310}
+{"k": 400, "stage": "group_compile", "run": 3, "seconds": 0.0012891999940620735, "rules": 1310}
+{"k": 400, "stage": "group_compile", "run": 4, "seconds": 0.0012928000069223344, "rules": 1310}
+{"k": 400, "stage": "group_compile", "run": 5, "seconds": 0.001141399989137426, "rules": 1310}
+{"k": 400, "stage": "group_compile", "run": 6, "seconds": 0.0012309000012464821, "rules": 1310}
+{"k": 400, "stage": "group_compile", "run": 7, "seconds": 0.0012053999962517992, "rules": 1310}
+{"k": 400, "stage": "group_compile", "run": 8, "seconds": 0.0011518999963300303, "rules": 1310}
+{"k": 400, "stage": "group_compile", "run": 9, "seconds": 0.0011302000057185069, "rules": 1310}
+{"k": 400, "stage": "group_memory", "run": 0, "peak_bytes": 2830992}
+{"k": 400, "stage": "pairwise_compile", "run": 0, "skipped": "590,236,962 rules > 5,000,000"}
+{"k": 400, "stage": "pairwise_compile", "run": 1, "skipped": "590,236,962 rules > 5,000,000"}
+{"k": 400, "stage": "pairwise_compile", "run": 2, "skipped": "590,236,962 rules > 5,000,000"}
+{"k": 400, "stage": "pairwise_memory", "run": 0, "skipped": "590,236,962 rules > 5,000,000"}

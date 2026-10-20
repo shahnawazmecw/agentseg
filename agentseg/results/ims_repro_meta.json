@@ -1,0 +1,36 @@
+{
+ "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+ "platform": "Windows-11-10.0.26200-SP0",
+ "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+ "generator": {
+  "label_types": 4,
+  "values_per_type": 5,
+  "epg_types_specified": [
+   1,
+   3
+  ],
+  "epg_values_per_type": [
+   1,
+   3
+  ],
+  "relations": 20,
+  "intent_relations": [
+   1,
+   3
+  ],
+  "constraint_subject_types_specified": [
+   4,
+   4
+  ],
+  "constraint_subject_values_per_type": [
+   1,
+   1
+  ],
+  "constraint_items_per_side": [
+   1,
+   2
+  ],
+  "default_deny_prob": 0.5,
+  "opt_A_rule": "type 0 value x may only have one type-1 value (keeps 1/5 of e_min)"
+ }
+}

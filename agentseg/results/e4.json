@@ -1,0 +1,288 @@
+{
+ "network_auth_events": 455931462,
+ "computers": 17647,
+ "redteam_events": 749,
+ "redteam_sources": [
+  "C17693",
+  "C18025",
+  "C19932",
+  "C22409"
+ ],
+ "first_redteam_s": 150885,
+ "distinct_keys": {
+  "pair": 405285,
+  "user_dst": 566553,
+  "user_pair": 1060542,
+  "dst": 12492
+ },
+ "learn": [
+  {
+   "hours": 6,
+   "test_events": 455017310,
+   "kinds": {
+    "pair": {
+     "policy_keys": 29415,
+     "legit_denied_events": 304573197,
+     "legit_denied_share": 0.6693661764208487,
+     "redteam_denied": 749
+    },
+    "user_dst": {
+     "policy_keys": 36024,
+     "legit_denied_events": 297403084,
+     "legit_denied_share": 0.6536082858034565,
+     "redteam_denied": 714
+    },
+    "user_pair": {
+     "policy_keys": 40061,
+     "legit_denied_events": 319545152,
+     "legit_denied_share": 0.7022703202214439,
+     "redteam_denied": 749
+    },
+    "dst": {
+     "policy_keys": 2705,
+     "legit_denied_events": 7856744,
+     "legit_denied_share": 0.017266912329115567,
+     "redteam_denied": 138
+    }
+   },
+   "next_24h": {
+    "events": 7922481,
+    "pair": 0.5436907958504413,
+    "user_dst": 0.5344473530450877,
+    "user_pair": 0.5763988578830294,
+    "dst": 0.012888134411429955
+   },
+   "blast_radius": {
+    "C17693": {
+     "direct": 0,
+     "transitive": 0
+    },
+    "C18025": {
+     "direct": 0,
+     "transitive": 0
+    },
+    "C19932": {
+     "direct": 0,
+     "transitive": 0
+    },
+    "C22409": {
+     "direct": 0,
+     "transitive": 0
+    }
+   },
+   "redteam_targets_reachable": {
+    "C17693": 0,
+    "C18025": 0,
+    "C19932": 0,
+    "C22409": 0
+   },
+   "redteam_targets": {
+    "C17693": 296,
+    "C18025": 1,
+    "C19932": 8,
+    "C22409": 3
+   }
+  },
+  {
+   "hours": 12,
+   "test_events": 452585130,
+   "kinds": {
+    "pair": {
+     "policy_keys": 110476,
+     "legit_denied_events": 170433757,
+     "legit_denied_share": 0.376578340079357,
+     "redteam_denied": 749
+    },
+    "user_dst": {
+     "policy_keys": 149059,
+     "legit_denied_events": 173343578,
+     "legit_denied_share": 0.3830076741584506,
+     "redteam_denied": 638
+    },
+    "user_pair": {
+     "policy_keys": 170550,
+     "legit_denied_events": 194292833,
+     "legit_denied_share": 0.4292956620116971,
+     "redteam_denied": 749
+    },
+    "dst": {
+     "policy_keys": 6728,
+     "legit_denied_events": 2617355,
+     "legit_denied_share": 0.0057831219510017925,
+     "redteam_denied": 79
+    }
+   },
+   "next_24h": {
+    "events": 7944088,
+    "pair": 0.13047778423401152,
+    "user_dst": 0.1460491122454837,
+    "user_pair": 0.16487720176312246,
+    "dst": 0.0013301715690964147
+   },
+   "blast_radius": {
+    "C17693": {
+     "direct": 0,
+     "transitive": 0
+    },
+    "C18025": {
+     "direct": 0,
+     "transitive": 0
+    },
+    "C19932": {
+     "direct": 0,
+     "transitive": 0
+    },
+    "C22409": {
+     "direct": 0,
+     "transitive": 0
+    }
+   },
+   "redteam_targets_reachable": {
+    "C17693": 0,
+    "C18025": 0,
+    "C19932": 0,
+    "C22409": 0
+   },
+   "redteam_targets": {
+    "C17693": 296,
+    "C18025": 1,
+    "C19932": 8,
+    "C22409": 3
+   }
+  },
+  {
+   "hours": 24,
+   "test_events": 448667897,
+   "kinds": {
+    "pair": {
+     "policy_keys": 125609,
+     "legit_denied_events": 145500741,
+     "legit_denied_share": 0.324294967330814,
+     "redteam_denied": 749
+    },
+    "user_dst": {
+     "policy_keys": 175795,
+     "legit_denied_events": 147290675,
+     "legit_denied_share": 0.32828440809973974,
+     "redteam_denied": 626
+    },
+    "user_pair": {
+     "policy_keys": 206284,
+     "legit_denied_events": 167127546,
+     "legit_denied_share": 0.3724972237093219,
+     "redteam_denied": 749
+    },
+    "dst": {
+     "policy_keys": 7124,
+     "legit_denied_events": 2222974,
+     "legit_denied_share": 0.004954608998913956,
+     "redteam_denied": 77
+    }
+   },
+   "next_24h": {
+    "events": 8160574,
+    "pair": 0.10698181279895262,
+    "user_dst": 0.120760868046782,
+    "user_pair": 0.1376935004817063,
+    "dst": 0.0014960957403241488
+   },
+   "blast_radius": {
+    "C17693": {
+     "direct": 0,
+     "transitive": 0
+    },
+    "C18025": {
+     "direct": 0,
+     "transitive": 0
+    },
+    "C19932": {
+     "direct": 0,
+     "transitive": 0
+    },
+    "C22409": {
+     "direct": 0,
+     "transitive": 0
+    }
+   },
+   "redteam_targets_reachable": {
+    "C17693": 0,
+    "C18025": 0,
+    "C19932": 0,
+    "C22409": 0
+   },
+   "redteam_targets": {
+    "C17693": 296,
+    "C18025": 1,
+    "C19932": 8,
+    "C22409": 3
+   }
+  },
+  {
+   "hours": 41,
+   "test_events": 442483182,
+   "kinds": {
+    "pair": {
+     "policy_keys": 148791,
+     "legit_denied_events": 112486681,
+     "legit_denied_share": 0.2542168506643943,
+     "redteam_denied": 749
+    },
+    "user_dst": {
+     "policy_keys": 214720,
+     "legit_denied_events": 113496296,
+     "legit_denied_share": 0.256498553203769,
+     "redteam_denied": 579
+    },
+    "user_pair": {
+     "policy_keys": 260241,
+     "legit_denied_events": 131953244,
+     "legit_denied_share": 0.29821075549940335,
+     "redteam_denied": 749
+    },
+    "dst": {
+     "policy_keys": 7991,
+     "legit_denied_events": 1652230,
+     "legit_denied_share": 0.003733995024470783,
+     "redteam_denied": 64
+    }
+   },
+   "next_24h": {
+    "events": 7322420,
+    "pair": 0.053952791563444874,
+    "user_dst": 0.06422726366419845,
+    "user_pair": 0.07658274177116309,
+    "dst": 0.0005491353951289328
+   },
+   "blast_radius": {
+    "C17693": {
+     "direct": 5,
+     "transitive": 1540
+    },
+    "C18025": {
+     "direct": 0,
+     "transitive": 0
+    },
+    "C19932": {
+     "direct": 0,
+     "transitive": 0
+    },
+    "C22409": {
+     "direct": 0,
+     "transitive": 0
+    }
+   },
+   "redteam_targets_reachable": {
+    "C17693": 0,
+    "C18025": 0,
+    "C19932": 0,
+    "C22409": 0
+   },
+   "redteam_targets": {
+    "C17693": 296,
+    "C18025": 1,
+    "C19932": 8,
+    "C22409": 3
+   }
+  }
+ ]
+}
