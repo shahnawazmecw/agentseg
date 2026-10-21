@@ -13,7 +13,7 @@ AgentSeg is a micro-segmentation system for microservices and AI agents. It keep
 | `agentseg/tests/` | 16 tests: the worked examples of the IMS paper, and checks that group decisions, incremental composition and endpoint updates equal full recomputation |
 | `agentseg/bench/`, `agentseg/e1/` … `agentseg/e7/` | One folder per experiment, including a Rust decision benchmark in `e7/rust_bench/` (standard library only) |
 | `agentseg/results/` | The results reported in the paper, as JSON/JSONL with Markdown summaries, and the AgentDojo run logs. Files named `superseded_*` come from earlier, corrected versions of an experiment; `agentseg/README.md` explains each one |
-| `paper/figs.py`, `paper/fig/` | The script that draws the paper's figures from the results, and the figures |
+| `paper/figs.py`, `paper/fig/` | The script that draws the paper's ten figures from the results, and the figures (PNG at 600 dpi and PDF): architecture, E1 scaling, E2 drift and churn, E3 attack flows, E4 trade-off, E5 radar chart, E7 throughput, ablation, and agent defenses compared |
 | `DATASETS.md`, `datasets/README.md` | Where each input dataset comes from, its licence, and how it is used |
 | `REPRODUCE.md` | Commands for every experiment, with run times on the machine we used |
 | `EXPERIMENT_DESIGN.md` | The experiment plan written before the runs |
@@ -28,7 +28,7 @@ cd agentseg
 python -m pytest -q tests
 ```
 
-The tests need no datasets. To repeat an experiment, download the datasets it uses into `datasets/` as listed in `REPRODUCE.md` and run the matching script; long steps can be stopped and resumed.
+The tests need no datasets. To redraw the figures from the included results: `cd paper && python figs.py`. To repeat an experiment, download the datasets it uses into `datasets/` as listed in `REPRODUCE.md` and run the matching script; long steps can be stopped and resumed.
 
 ## Main results
 
@@ -43,6 +43,7 @@ All numbers were measured on one laptop (AMD Ryzen 5 7530U, 15.4 GB RAM) and com
 | E5, MCP Security Bench (2,000 cases, offline) | 87.5% blocked with identity pinning and parameter scope, against 81.2% for tool-name allow-lists |
 | E6, AgentDojo with a local model (480 runs) | Attack success falls from 4.2% to 0.0% with no change in utility |
 | E7, decision cost (Rust) | 11.6 ns per decision; 388 million decisions per second on 8 threads |
+| Ablation | Group compilation is the largest factor: 0.16 ms against 1.72 s per-pair on the same 50 microservices (10,809×). Identity pinning alone blocks 86.7% of MSB cases and parameter scope alone (policy P1S) 86.0%; together 87.5% |
 
 ## Citation
 

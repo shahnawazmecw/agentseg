@@ -1,6 +1,6 @@
 # AgentSeg code
 
-Status 19 October 2026: the IMS re-implementation (the base system and main baseline) is done and checked against the IMS paper. All experiments E1–E7 are done (20 October 2026).
+Status 19 October 2026: the IMS re-implementation (the base system and main baseline) is done and checked against the IMS paper. All experiments E1–E7 are done (20 October 2026), and the ablation variant P1S of E5 was added on 21 October 2026.
 
 E2 notes: the IMS Algorithm 6 comparison runs on a 203-microservice subset (1,933 pods, 205,219 per-pair rules), chosen as the services with the most pod events that keep per-pair rules under 5 M. A random subset had no pod events in minutes 30–75. Per-event times in the subset are single events timed with perf_counter, so sub-microsecond values are near the timer's resolution.
 
@@ -21,7 +21,7 @@ E1 notes: of 13.3 M call rows in window 0, 3.65 M with a non-microservice endpoi
 | `e2/prep_lifecycle.py` | Pod lifetimes (first/last minute) from MSMetrics_0–3 |
 | `e2/drift.py`, `e2/churn.py` | E2: drift against learning window; churn replay of minutes 30–75. Results in `results/e2_*` |
 | `core/agents.py` | Agents and tool servers as endpoints of the IMS algebra (kind, role, verified identity); relations (tool, scope); tested in `tests/test_agents.py` |
-| `e5/run_e5.py` | E5: offline replay of MSB (2,000 cases) and InjecAgent (1,054 cases x 2 wordings) under four policy levels; tool names and parameters of MSB's local servers read with `ast` (not run). `results/e5.json`, `results/e5_summary.md` |
+| `e5/run_e5.py` | E5: offline replay of MSB (2,000 cases) and InjecAgent (1,054 cases x 2 wordings) under five policy levels (P0 none, P1 tool-name allow-list, P1S names and parameter scope without identity pinning, used only in the ablation, P2 identity pinning, P3 identity pinning and scope); tool names and parameters of MSB's local servers read with `ast` (not run). `results/e5.json`, `results/e5_summary.md` |
 | `e6/run_e6.py` | E6: AgentDojo banking, qwen2.5:1.5b via Ollama's OpenAI-compatible endpoint; no defense, AgentSeg tool intents, AgentSeg + parameter scope; 480 runs. Run with `../.venv_agentdojo/Scripts/python.exe`. `results/e6.json`, `results/e6_summary.md`, logs in `results/e6_runs/` |
 | `e7/prep_e7.py`, `e7/rust_bench/` | E7: workload from Alibaba window 0 (8.16 M observed pod-to-pod calls), Rust decision benchmark (std only); `results/e7_rust.json` (median of 5 runs), `results/e7_python.json` |
 | `e1/pairwise_points.py` | E1 supplement: measured per-pair compilation at 106 and 150 microservices on capped subsets; `results/e1_pairwise.jsonl` |

@@ -30,13 +30,13 @@ Python packages: `pyarrow`, `numpy`, `matplotlib`, `python-docx`, `pytest`. E6 a
 | E2 | `python e2/drift.py`, `python e2/churn.py` | ~10 min | `e2_*` |
 | E3 | `python e3/run_e3.py` | ~3 min | `e3*` |
 | E4 | `python e4/prep_lanl.py --deadline 440` (repeat), then `python e4/run_e4.py` | ~15 min | `e4*` |
-| E5 | `python e5/run_e5.py` | < 1 min | `e5*` |
+| E5 (and the P1S ablation variant) | `python e5/run_e5.py` | < 1 min | `e5*` |
 | E6 | `../.venv_agentdojo/Scripts/python e6/run_e6.py --deadline 520` (repeat; Ollama running) | ~35 min | `e6*`, `e6_runs/` |
 | E7 | `python e7/prep_e7.py`; `cargo build --release` in `e7/rust_bench`; run `e7/rust_bench/target/release/agentseg_bench ../datasets/derived/e7` five times into `results/e7_rust_runs.jsonl` (median written to `e7_rust.json`) | ~5 min | `e7_*` |
 
 ## 4. Figures
 
-From `paper/`: `python figs.py` redraws the five figures of the paper from `agentseg/results` into `paper/fig/` (PNG at 600 dpi and PDF).
+From `paper/`: `python figs.py` redraws the ten figures of the paper from `agentseg/results` into `paper/fig/` (PNG at 600 dpi and PDF).
 
 ## Notes
 
