@@ -173,6 +173,15 @@ def msb():
             return True
         if policy == "P1":
             return x["tool"] in names_p1[role] or (x["tool"] in FS_TOOLS and "Filesystem_MCP_Server" in roles[role])
+        if policy == "P1S":  # ablation: name allow-list plus parameter scope, without identity pinning
+            if not allowed("P1", role, x):
+                return False
+            if x["tool"] in FS_TOOLS and "Filesystem_MCP_Server" in roles[role]:
+                return x["tool"] in FS_READ  # same read-only file scope as P3
+            if x["kind"] == "shell":
+                return True
+            known = [schema[s_][x["tool"]] for s_ in roles[role] if s_ in schema and x["tool"] in schema[s_]]
+            return any(x["params"] <= k for k in known) if known else True
         pol = pol2 if policy == "P2" else pol3
         if policy == "P2":
             scope = "any"
@@ -194,7 +203,7 @@ def msb():
             skipped += 1
             continue
         res[c["attack_type"]]["cases"] += 1
-        for p in ("P0", "P1", "P2", "P3"):
+        for p in ("P0", "P1", "P1S", "P2", "P3"):
             blocked = any(not any(allowed(p, c["agent_name"], x) for x in alts) for alts in st)
             res[c["attack_type"]][p] += blocked
             if p == "P3" and not blocked:
@@ -270,12 +279,12 @@ def main():
 
 def summarize(res):
     L = ["# E5: agent tool-call segmentation (offline replay)", "", "## MSB: attack cases blocked", "",
-         "| Attack type | Cases | P0 none | P1 name allow-list | P2 AgentSeg identity | P3 AgentSeg + scope |", "|---|---|---|---|---|---|"]
+         "| Attack type | Cases | P0 none | P1 name allow-list | P1S names + scope (ablation) | P2 AgentSeg identity | P3 AgentSeg + scope |", "|---|---|---|---|---|---|---|"]
     tot = collections.Counter()
     for at, c in sorted(res["msb"]["by_type"].items()):
-        L.append(f"| {at} | {c['cases']} | " + " | ".join(f"{100 * c.get(p, 0) / c['cases']:.1f}%" for p in ("P0", "P1", "P2", "P3")) + " |")
+        L.append(f"| {at} | {c['cases']} | " + " | ".join(f"{100 * c.get(p, 0) / c['cases']:.1f}%" for p in ("P0", "P1", "P1S", "P2", "P3")) + " |")
         tot.update(c)
-    L.append(f"| all | {tot['cases']} | " + " | ".join(f"{100 * tot[p] / tot['cases']:.1f}%" for p in ("P0", "P1", "P2", "P3")) + " |")
+    L.append(f"| all | {tot['cases']} | " + " | ".join(f"{100 * tot[p] / tot['cases']:.1f}%" for p in ("P0", "P1", "P1S", "P2", "P3")) + " |")
     L += ["", f"Cases MSB itself skips (no attack server for the benign tool): {res['msb']['skipped_no_attack_server']}.",
           f"Cases not blocked by P3, by role: {res['msb']['p3_residual_by_role']}.",
           f"Benign task servers reachable: {res['msb']['benign_task_servers_allowed']}.", "",
